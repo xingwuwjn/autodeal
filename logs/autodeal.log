@@ -1,0 +1,2330 @@
+nohup: ignoring input
+((39, 'US-500-男-30-60', 'US', '男', '30-60', 500.0, 'PianoLite™ Portable Electronic Piano with Speaker-$500-20180914', 'video/46fd1fc733b4d07a1c2b348cc58a2038.mp4', 'PianoLite™ Portable Electronic Piano with Speaker', 'UHJhY3RpY2UgeW91ciBwaWFubyBza2lsbHMgb3IgeW91ciBjaGlsZHJlbidzIHNraWxscyBhbnl3aGVyZSwgYW55dGltZSwgd2l0aCB0aGlzIFBpYW5vUm9sbOKEoiBQb3J0YWJsZSBFbGVjdHJvbmljIFBpYW5v8J+OufCfjrwgR2V0IDQwJSBvZmYgTm93IOKeoSB7e319', '', 'http://greatmusk.com/image/670f96191df312e4ae791a9f10706cb9.jpg', 'https://www.1daydreamer.com/?route=product/product&product_id=226'),)
+creating campain....
+{'id': '23843036778080710'}
+create campain successed!
+
+creating adset...
+{'id': '23843036778210710'}
+upload image,video...
+{'error': {'message': '(#200) Subject does not have permission to post videos on this target', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Fq0SaIo2/1/'}}
+'id'
+upload video video/46fd1fc733b4d07a1c2b348cc58a2038.mp4 error!
+
+sleepping.. 5*60
+((39, 'US-500-男-30-60', 'US', '男', '30-60', 500.0, 'PianoLite™ Portable Electronic Piano with Speaker-$500-20180914', 'video/46fd1fc733b4d07a1c2b348cc58a2038.mp4', 'PianoLite™ Portable Electronic Piano with Speaker', 'UHJhY3RpY2UgeW91ciBwaWFubyBza2lsbHMgb3IgeW91ciBjaGlsZHJlbidzIHNraWxscyBhbnl3aGVyZSwgYW55dGltZSwgd2l0aCB0aGlzIFBpYW5vUm9sbOKEoiBQb3J0YWJsZSBFbGVjdHJvbmljIFBpYW5v8J+OufCfjrwgR2V0IDQwJSBvZmYgTm93IOKeoSB7e319', '', 'http://greatmusk.com/image/670f96191df312e4ae791a9f10706cb9.jpg', 'https://www.1daydreamer.com/?route=product/product&product_id=226'), (40, 'US-500-男-30-60', 'US', '男', '30-60', 500.0, 'EntireComfort™ PRO Full Body Pillow (Made in USA) 5½ feet long!-$500-20180914', 'video/4447546539118e378e6ccdfdb6348398.mp4', 'EntireComfort™ PRO Full Body Pillow (Made in USA) 5½ feet long!', 'VGhlIG9yaWdpbmFsIEVudGlyZUNvbWZvcnTihKIgRnVsbCBCb2R5IFBpbGxvdyBoZWxwcyB3aXRoIGJhY2sgcGFpbiwgZmlicm9teWFsZ2lhLCBudXJzaW5nIGFuZCByaGV1bWF0b2lkIGFydGhyaXRpcyEgTWFkZSBpbiBVU0Eg8J+HuvCfh7jwn4e68J+HuPCfh7rwn4e4IDUuNSBGRUVUIExPTkchIFN0YXJ0IGdldHRpbmcgYSBiZXR0ZXIgbmlnaHRzIHNsZWVwIHRvZGF5ISAgR2V0IGl0IGhlcmUg8J+RiSB7e319', '60% OFF TODAY ONLY!', 'http://greatmusk.com/image/c819f8bac099cedf5cfdbcf60413f49e.jpg', 'https://www.1daydreamer.com/?route=product/product&product_id=227'))
+creating campain....
+{'id': '23843036785580710'}
+create campain successed!
+
+creating adset...
+{'id': '23843036785600710'}
+upload image,video...
+{'error': {'message': '(#200) Subject does not have permission to post videos on this target', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Cezwk3ROfzo'}}
+'id'
+upload video video/46fd1fc733b4d07a1c2b348cc58a2038.mp4 error!
+
+creating campain....
+{'id': '23843036785770710'}
+create campain successed!
+
+creating adset...
+{'id': '23843036785800710'}
+upload image,video...
+{'error': {'message': '(#200) Subject does not have permission to post videos on this target', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AZDt4R0JBhA'}}
+'id'
+upload video video/4447546539118e378e6ccdfdb6348398.mp4 error!
+
+sleepping.. 5*60
+((39, 'US-500-男-30-60', 'US', '男', '30-60', 500.0, 'PianoLite™ Portable Electronic Piano with Speaker-$500-20180914', 'video/46fd1fc733b4d07a1c2b348cc58a2038.mp4', 'PianoLite™ Portable Electronic Piano with Speaker', 'UHJhY3RpY2UgeW91ciBwaWFubyBza2lsbHMgb3IgeW91ciBjaGlsZHJlbidzIHNraWxscyBhbnl3aGVyZSwgYW55dGltZSwgd2l0aCB0aGlzIFBpYW5vUm9sbOKEoiBQb3J0YWJsZSBFbGVjdHJvbmljIFBpYW5v8J+OufCfjrwgR2V0IDQwJSBvZmYgTm93IOKeoSB7e319', '', 'http://greatmusk.com/image/670f96191df312e4ae791a9f10706cb9.jpg', 'https://www.1daydreamer.com/?route=product/product&product_id=226'), (40, 'US-500-男-30-60', 'US', '男', '30-60', 500.0, 'EntireComfort™ PRO Full Body Pillow (Made in USA) 5½ feet long!-$500-20180914', 'video/4447546539118e378e6ccdfdb6348398.mp4', 'EntireComfort™ PRO Full Body Pillow (Made in USA) 5½ feet long!', 'VGhlIG9yaWdpbmFsIEVudGlyZUNvbWZvcnTihKIgRnVsbCBCb2R5IFBpbGxvdyBoZWxwcyB3aXRoIGJhY2sgcGFpbiwgZmlicm9teWFsZ2lhLCBudXJzaW5nIGFuZCByaGV1bWF0b2lkIGFydGhyaXRpcyEgTWFkZSBpbiBVU0Eg8J+HuvCfh7jwn4e68J+HuPCfh7rwn4e4IDUuNSBGRUVUIExPTkchIFN0YXJ0IGdldHRpbmcgYSBiZXR0ZXIgbmlnaHRzIHNsZWVwIHRvZGF5ISAgR2V0IGl0IGhlcmUg8J+RiSB7e319', '60% OFF TODAY ONLY!', 'http://greatmusk.com/image/c819f8bac099cedf5cfdbcf60413f49e.jpg', 'https://www.1daydreamer.com/?route=product/product&product_id=227'))
+creating campain....
+{'id': '23843036797710710'}
+create campain successed!
+
+creating adset...
+{'id': '23843036797730710'}
+upload image,video...
+{'id': '271139523520361'}
+first image,video successed!
+
+wait facebook excute,sleepping 60s..
+createadreatives...
+{'name': 'hello world', 'object_story_spec': '{\'page_id\': \'329607517584699\', \'video_data\': {\'image_url\': \'http://greatmusk.com/image/670f96191df312e4ae791a9f10706cb9.jpg\', \'video_id\': \'271139523520361\', \'call_to_action\': {\'type\': \'LEARN_MORE\', \'value\': {\'link\': \'https://www.1daydreamer.com/?route=product/product&product_id=226\'}}, \'title\': \'\', \'message\': "Practice your piano skills or your children\'s skills anywhere, anytime, with this PianoRoll™ Portable Electronic Piano🎹🎼 Get 40% off Now ➡ https://www.1daydreamer.com/?route=product/product&product_id=226"}}', 'access_token': 'EAAFDuqtkB4MBAFbK9hpmMChLB7Bt76sZCKcrTzY9BvTh5HXBN5Md4prrwedClJRAlpgKZCqTDEBtAWEdx0EMREX6ZAue22LKF0Y3QUFJReYT6UzsmLe5vII65huDn6Ss9qkWXqtEETLnZBuGsY8WtBZA8boXN7jbF3lZBRkjN3q8K02oUZBqojenFbtvWWVBSwZD', 'title': 'test,title', 'description': 'abcbajjjj', 'body': 'this is body'}
+{'id': '23843036798950710'}
+create adcreative successed
+
+creating ad...
+{'name': 'PianoLite™ Portable Electronic Piano with Speaker', 'adset_id': '23843036797730710', 'creative': '{"creative_id":"23843036798950710"}', 'status': 'PAUSED', 'access_token': 'EAAFDuqtkB4MBAFbK9hpmMChLB7Bt76sZCKcrTzY9BvTh5HXBN5Md4prrwedClJRAlpgKZCqTDEBtAWEdx0EMREX6ZAue22LKF0Y3QUFJReYT6UzsmLe5vII65huDn6Ss9qkWXqtEETLnZBuGsY8WtBZA8boXN7jbF3lZBRkjN3q8K02oUZBqojenFbtvWWVBSwZD'}
+update status successed!
+creating campain....
+{'id': '23843036799120710'}
+create campain successed!
+
+creating adset...
+{'id': '23843036799220710'}
+upload image,video...
+{'id': '326696111214741'}
+first image,video successed!
+
+wait facebook excute,sleepping 60s..
+createadreatives...
+{'name': 'hello world', 'object_story_spec': "{'page_id': '329607517584699', 'video_data': {'image_url': 'http://greatmusk.com/image/c819f8bac099cedf5cfdbcf60413f49e.jpg', 'video_id': '326696111214741', 'call_to_action': {'type': 'LEARN_MORE', 'value': {'link': 'https://www.1daydreamer.com/?route=product/product&product_id=227'}}, 'title': '60% OFF TODAY ONLY!', 'message': 'The original EntireComfort™ Full Body Pillow helps with back pain, fibromyalgia, nursing and rheumatoid arthritis! Made in USA 🇺🇸🇺🇸🇺🇸 5.5 FEET LONG! Start getting a better nights sleep today!  Get it here 👉 https://www.1daydreamer.com/?route=product/product&product_id=227'}}", 'access_token': 'EAAFDuqtkB4MBAFbK9hpmMChLB7Bt76sZCKcrTzY9BvTh5HXBN5Md4prrwedClJRAlpgKZCqTDEBtAWEdx0EMREX6ZAue22LKF0Y3QUFJReYT6UzsmLe5vII65huDn6Ss9qkWXqtEETLnZBuGsY8WtBZA8boXN7jbF3lZBRkjN3q8K02oUZBqojenFbtvWWVBSwZD', 'title': 'test,title', 'description': 'abcbajjjj', 'body': 'this is body'}
+{'id': '23843036800370710'}
+create adcreative successed
+
+creating ad...
+{'name': 'EntireComfort™ PRO Full Body Pillow (Made in USA) 5½ feet long!', 'adset_id': '23843036799220710', 'creative': '{"creative_id":"23843036800370710"}', 'status': 'PAUSED', 'access_token': 'EAAFDuqtkB4MBAFbK9hpmMChLB7Bt76sZCKcrTzY9BvTh5HXBN5Md4prrwedClJRAlpgKZCqTDEBtAWEdx0EMREX6ZAue22LKF0Y3QUFJReYT6UzsmLe5vII65huDn6Ss9qkWXqtEETLnZBuGsY8WtBZA8boXN7jbF3lZBRkjN3q8K02oUZBqojenFbtvWWVBSwZD'}
+update status successed!
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60
+()
+sleepping.. 5*60

@@ -1,0 +1,89 @@
+nohup: ignoring input
+start get datalist
+data length:16
+[{'id': 366, 'url': 'http://bit.ly/2N7KhAt'}, {'id': 1799, 'url': 'http://bit.ly/OwletWorryLess'}, {'id': 506, 'url': 'http://bit.ly/easy-ways-buy-owlet'}, {'id': 363, 'url': 'https://'}, {'id': 1556, 'url': 'https://See Translation'}, {'id': 1520, 'url': 'https://Semiperdo'}, {'id': 1797, 'url': 'https://bit.ly/2spdjhO'}, {'id': 365, 'url': 'https://blog.owletcare.com/cnbc-owlet-smart-sock-review/'}, {'id': 352, 'url': 'https://bluecrate.com/products/easy-opener'}, {'id': 353, 'url': 'https://bluecrate.com/products/snore-silencer…'}, {'id': 1522, 'url': 'https://rectecgrills.com'}, {'id': 1516, 'url': 'https://shop.semiperdo.com'}, {'id': 1518, 'url': 'https://shop.semiperdo.com.'}, {'id': 1966, 'url': 'https://www.nuraphone.com'}, {'id': 362, 'url': 'https://www.owletcare.com'}, {'id': 368, 'url': 'https://www.simicase.com'}]
+start crawl--turl：http://laurenhilgerandco.com/2018/03/12/owlet-sleep-sock-newborn-mama-must/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://owletcare.com/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://blog.owletcare.com/easy-ways-buy-owlet/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+Invalid URL 'https://': No host supplied
+update status=3 successed!
+HTTPSConnectionPool(host='see%20translation', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f6d934731d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+update status=3 successed!
+HTTPSConnectionPool(host='semiperdo', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f6d934739b0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+update status=3 successed!
+start crawl--turl：https://owletcare.com/pages/safe-sleep
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://blog.owletcare.com/cnbc-owlet-smart-sock-review/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://bluecrate.com/products/easy-opener
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://bluecrate.com/products/snore-silencer%E2%80%A6
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://www.rectecgrills.com:443/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://shop.semiperdo.com/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://shop.semiperdo.com./
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://www.nuraphone.com/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://owletcare.com/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+start crawl--turl：https://www.simicase.com/
+get dealdetail...
+dealdetail: {}
+update status=3 successed!
+sleep 3s...
+
+sleeping 2*60*60.....

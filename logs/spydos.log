@@ -1,0 +1,1021 @@
+nohup: ignoring input
+start login fb
+logined success
+set language..
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"a[lang='en_US']"}
+  (Session info: headless chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 3.13.0-143-generic x86_64)
+
+language is english
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/416442092217064', 'https://www.facebook.com/183334359054776/posts/416442092217064', 'https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183']
+crawl https://www.facebook.com/183334359054776/posts/416442092217064
+has comments
+downloading videourl:https://www.facebook.com/IWantOneByHowlers/videos/416442092217064/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38088066_416444155550191_5920703887454502912_n.jpg?_nc_cat=0&oh=002213419fa1714c44532ce3233d9d29&oe=5C2C60D7
+download start
+ download finished
+
+https://www.facebook.com/183334359054776/posts/416442092217064 is crawled
+crawl https://www.facebook.com/183334359054776/posts/463266064174046
+has comments
+downloading videourl:https://www.facebook.com/IWantOneByHowlers/videos/463266064174046/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38495316_463266924173960_4338984367117303808_n.jpg?_nc_cat=0&oh=56c6a94dbf0f260736db09110a642eff&oe=5C201949
+download start
+ download finished
+
+crawl https://www.facebook.com/183334359054776/posts/262618711036183
+has comments
+downloading videourl:https://www.facebook.com/IWantOneByHowlers/videos/262618711036183/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/37633935_262621834369204_7779391984556310528_n.jpg?_nc_cat=0&oh=03048ceb68edefc4e22aeead26c43659&oe=5C1B5660
+download start
+ download finished
+
+[{'siteid': 17, 'likes': 1600.0, 'views': 831000.0, 'comments': '853', 'shares': 5200.0, 'url': 'https://www.facebook.com/183334359054776/posts/416442092217064', 'adsurl': 'https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1', 'name': 'IWantOneByHowlers', 'countryid': '1', 'dealurl': 'https://lovimals.com/products/custom-dog-print-socks', 'firstimage': 'image/cccd47c22e87e494f9c3806f93a47ed8.jpg', 'video': 'video/ec7e9a01d5f8c659826b65ba8c82c6cd.mp4', 'images': '', 'message': 'WW91IGNhbiBub3cgZ2V0IHlvdXIgcGV0J3MgZmFjZSBwcmludGVkIG9uIHlvdXIgc29jayDwn5C28J+QsSBGZXRjaCBZb3VycyBOb3c6IHt7fX0=', 'posttime': '1535653730', 'title': 'Lovimals'}, {'siteid': 17, 'likes': 2700.0, 'views': 4600000.0, 'comments': 1300.0, 'shares': 35000.0, 'url': 'https://www.facebook.com/183334359054776/posts/463266064174046', 'adsurl': 'https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1', 'name': 'IWantOneByHowlers', 'countryid': '1', 'dealurl': 'https://bluecrate.com/products/easy-opener', 'firstimage': 'image/9fc9e4703df19fbcc3961b94ccc57454.jpg', 'video': 'video/4ad2b6bbfab82afc134472a1860a7ced.mp4', 'images': '', 'message': 'VGhpcyBkZXZpY2Ugb3BlbnMgamFycyB3aXRoIGEgY2xpY2sgb2YgYSBidXR0b24gR2V0IHlvdXJzIGhlcmU6IHt7fX0=', 'posttime': '1535568985', 'title': 'Easy opener'}, {'siteid': 17, 'likes': 3300.0, 'views': 14000000.0, 'comments': 12000.0, 'shares': 37000.0, 'url': 'https://www.facebook.com/183334359054776/posts/262618711036183', 'adsurl': 'https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1', 'name': 'IWantOneByHowlers', 'countryid': '1', 'dealurl': 'https://bluecrate.com/products/snore-silencer…', 'firstimage': 'image/8510d8dcb3201746a159170462260c47.jpg', 'video': 'video/7e404e18093cca06bd96a1f48015219f.mp4', 'images': '', 'message': 'VGhpcyBkZXZpY2Ugc3RvcHMgcGVvcGxlIGZyb20gc25vcmluZyDwn5i0IEdldCB5b3VycyBoZXJlOiB7e319', 'posttime': '1535050506', 'title': 'Posture Corrector'}]
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=2
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183']
+https://www.facebook.com/183334359054776/posts/463266064174046 is crawled
+https://www.facebook.com/183334359054776/posts/262618711036183 is crawled
+[]
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=3
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183', 'https://www.facebook.com/183334359054776/posts/416442092217064', 'https://www.facebook.com/183334359054776/posts/416442092217064']
+https://www.facebook.com/183334359054776/posts/463266064174046 is crawled
+https://www.facebook.com/183334359054776/posts/262618711036183 is crawled
+https://www.facebook.com/183334359054776/posts/416442092217064 is crawled
+https://www.facebook.com/183334359054776/posts/416442092217064 is crawled
+[]
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=4
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183']
+https://www.facebook.com/183334359054776/posts/463266064174046 is crawled
+https://www.facebook.com/183334359054776/posts/262618711036183 is crawled
+[]
+Start collecting https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2
+crawl0page
+crawl1page
+['https://www.facebook.com/314944768605525/posts/10156029023244063', 'https://www.facebook.com/314944768605525/posts/1429243827175608', 'https://www.facebook.com/314944768605525/posts/1337084503058208', 'https://www.facebook.com/314944768605525/posts/1155967587836568', 'https://www.facebook.com/314944768605525/posts/1351040714995920', 'https://www.facebook.com/314944768605525/posts/1231261510307175', 'https://www.facebook.com/314944768605525/posts/10100933410480001', 'https://www.facebook.com/314944768605525/posts/1201703003263026', 'https://www.facebook.com/314944768605525/posts/1395323263900998', 'https://www.facebook.com/314944768605525/posts/10100132250561163', 'https://www.facebook.com/314944768605525/posts/1152010741565586', 'https://www.facebook.com/314944768605525/posts/1276137409152918', 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'https://www.facebook.com/314944768605525/posts/1330262023740456', 'https://www.facebook.com/314944768605525/posts/1036966699736658', 'https://www.facebook.com/314944768605525/posts/1447763568656967']
+crawl https://www.facebook.com/314944768605525/posts/10156029023244063
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10156029023244063/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/22118783_10156029023329063_5928086352120774656_n.jpg?_nc_cat=0&oh=d036b3844c37742f29d69e424a9fc977&oe=5C2DBBAF
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1429243827175608
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1337084503058208
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1155967587836568
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1351040714995920
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1231261510307175
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/1231261510307175/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/23496284_1231266796973313_3566621115537162240_n.jpg?_nc_cat=0&oh=911ef54e4482bbd62ffb5d57e74e67ee&oe=5C1A8F49
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/10100933410480001
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10100933410480001/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p960x960/26707955_10100933410669621_2905206129162190848_n.jpg?_nc_cat=0&oh=9b6fe77fd896be9d9b18c2454ef91a4d&oe=5C1C06CA
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1201703003263026
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1395323263900998
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/10100132250561163
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10100132250561163/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/23337338_10100132250586113_2698838168974655488_n.jpg?_nc_cat=0&oh=12aa74be17cc30921dbe73f987d23937&oe=5C1D9235
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1152010741565586
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1276137409152918
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/10100146554211533
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10100146554211533/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/24582937_10100146554485983_5214693396651704320_n.jpg?_nc_cat=0&oh=0946d0ced23e2d650589ec16cc947c88&oe=5C312BCE
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1330262023740456
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/1330262023740456/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/27419433_1330271217072870_8813908233019195392_n.jpg?_nc_cat=1&oh=4440678b8d75a4d1389e538731c130b5&oe=5C258E4B
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1036966699736658
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1447763568656967
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10101018702045021/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/34470224_10101018702249611_6746083420767518720_n.jpg?_nc_cat=0&oh=1a10f313fbe9016e1ae2b78ef08cd1c4&oe=5C29BE3F
+download start
+ download finished
+
+[{'siteid': 22, 'likes': 1800.0, 'views': 10000.0, 'comments': '258', 'shares': '328', 'url': 'https://www.facebook.com/314944768605525/posts/10156029023244063', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/7a7f3c7fff8f355738076a3694c1761d.jpg', 'video': 'video/7ee0e1c043975cbd1ee7528de4803e50.mp4', 'images': '', 'message': 'WW91IGNhbiBnZXQgdGhlIHJlc3QgeW91IGRlc2VydmUgd2l0aCBwZWFjZSBvZiBtaW5kIHdoaWxlIHdlIGhlbHAgd2F0Y2ggb3ZlciB5b3VyIGJhYnnigJlzIGhlYXJ0IHJhdGUgYW5kIG94eWdlbiBsZXZlbHMgdGhyb3VnaCB0aGUgbmlnaHQu', 'posttime': '1506631112', 'title': 'Peace of Mind'}, {'siteid': 22, 'likes': 28000.0, 'views': 2300000.0, 'comments': 3600.0, 'shares': 17000.0, 'url': 'https://www.facebook.com/314944768605525/posts/1231261510307175', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://www.owletcare.com', 'firstimage': 'image/d4c6c056070768d39fbb6ae8ad62cc3b.jpg', 'video': 'video/30095c6cb90b8dadbb37e79928c52ca2.mp4', 'images': '', 'message': 'V2hvIGRvIHlvdSBrbm93IHRoYXQgbmVlZHMgYW4gT3dsZXQgU21hcnQgU29jaz8gVm90ZWQgQmVzdCBCYWJ5IE1vbml0b3Igb2YgMjAxNy4ge3t9fQ==', 'posttime': '1510768800', 'title': 'Easy Ways to Buy An Owlet'}, {'siteid': 22, 'likes': '601', 'views': 346000.0, 'comments': '133', 'shares': '107', 'url': 'https://www.facebook.com/314944768605525/posts/10100933410480001', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/32fc0d43b083f69079e498db1b562656.jpg', 'video': 'video/8d39202ae5daab2375c335405a8886bb.mp4', 'images': '', 'message': 'VGlyZWQgZnJvbSBjaGVja2luZyBvbiB5b3VyIGJhYnkgYWxsIG5pZ2h0PyBUaGVyZSdzIGEgYmV0dGVyIHdheS4=', 'posttime': '1516901005', 'title': 'Know Your Baby is Okay'}, {'siteid': 22, 'likes': 12000.0, 'views': 1900000.0, 'comments': 1500.0, 'shares': 2900.0, 'url': 'https://www.facebook.com/314944768605525/posts/10100132250561163', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/40345e7b1b1e07f81f2543848eba9e5c.jpg', 'video': 'video/e621ac0ac916e9860912c87f315a4926.mp4', 'images': '', 'message': 'U3RpbGwgaG92ZXJpbmcgb3ZlciB5b3VyIGJhYnnigJlzIGNyaWIgd2hpbGUgdGhleSBzbGVlcD8gT3dsZXQgdHJhY2tzIHlvdXIgYmFieeKAmXMgaGVhcnQgcmF0ZSBhbmQgb3h5Z2VuIGxldmVscywgc28geW91IGNhbiBnbyBhYm91dCB5b3VyIGRheS4=', 'posttime': '1510011434', 'title': 'Owlet Smart Sock'}, {'siteid': 22, 'likes': '65', 'views': 43000.0, 'comments': '7', 'shares': '2', 'url': 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/5744347728c345972618b0af7f57e58d.jpg', 'video': 'video/93475128041af2147f02a4c37a205bb5.mp4', 'images': '', 'message': 'V2UgbG92ZSBvdXIgTklDVSBiYWJpZXMu', 'posttime': '1515164835', 'title': 'An Owlet Story'}, {'siteid': 22, 'likes': 37000.0, 'views': 5900000.0, 'comments': 5400.0, 'shares': 21000.0, 'url': 'https://www.facebook.com/314944768605525/posts/1330262023740456', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://blog.owletcare.com/cnbc-owlet-smart-sock-review/', 'firstimage': 'image/74254852e513b5e4ae664be2b56249fa.jpg', 'video': 'video/c6936f13146ca9455c9b1a51c9486d0f.mp4', 'images': '', 'message': 'Q05CQyByZXBvcnRlciBhbmQgbmV3IG1vbSByZXZpZXdzIHRoZSBPd2xldCBTbWFydCBTb2NrISB7e319', 'posttime': '1538326980', 'title': 'Connected Care'}, {'siteid': 22, 'likes': 5900.0, 'views': 7600000.0, 'comments': '655', 'shares': 2600.0, 'url': 'https://www.facebook.com/314944768605525/posts/1447763568656967', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'http://bit.ly/2N7KhAt', 'firstimage': 'image/497db09b1676231866dddf576c91ded4.jpg', 'video': 'video/964bef1083102b937c2327a725daf258.mp4', 'images': '', 'message': 'VGhlcmUncyByZWFsbHkgb25seSBvbmUgd2F5IHRvIHNsZWVwIHdoaWxlIHRoZSBiYWJ5IGlzIHNsZWVwaW5nLg==', 'posttime': '1530648434', 'title': 'Smart Sock Baby Monitor'}]
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/simistorenow/ads/?country=2
+crawl0page
+crawl1page
+['https://www.facebook.com/1887908588127100/posts/10156666416488966']
+crawl https://www.facebook.com/1887908588127100/posts/10156666416488966
+has comments
+downloading videourl:https://www.facebook.com/simistorenow/videos/10156666416488966/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38088627_10156666416553966_3749744463610642432_n.jpg?_nc_cat=0&oh=8de18ae2f2997a4958238ff7168a2ffa&oe=5C62E817
+download start
+ download finished
+
+[{'siteid': 23, 'likes': 0, 'views': 0.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/1887908588127100/posts/10156666416488966', 'adsurl': 'https://www.facebook.com/pg/simistorenow/ads/?country=2', 'name': 'simistorenow', 'countryid': '2', 'dealurl': 'https://www.simicase.com', 'firstimage': 'image/36ea0754a355c94b67c100d722c633c5.jpg', 'video': 'video/85427b19c658e2cdb29e1a08893a6b00.mp4', 'images': '', 'message': '4oC8RlJFRSBTSElQUElOR+KAvCBOT1cgbmV3IExpbWl0ZWQgRWRpdGlvbiBjb2xvcnPigLwgVGhlIFNpbWlDYXNlIGlzIHRoZXJtYWwgc2Vuc2l0aXZlIGFuZCBjaGFuZ2VzIGNvbG9yIGJ5IHRvdWNoIG9yIGV2ZW4gYnkgdGhlIHNtYWxsZXN0IGNoYW5nZSBpbiB0ZW1wcmF0dXJlLiDinqHvuI8ge3t9fSDirIXvuI8gQSBndWFyYW50ZWVkIGV5ZS1jYXRjaGVyLiBOb3Qgc2F0aXNmaWVkPyAxMDAlIE1vbmV5IEJhY2sg8J+YsfCfmLHwn5ix', 'posttime': '1534068453', 'title': 'The case with FEELINGS'}]
+insert update successed!
+Start collecting https://www.facebook.com/pg/micella.net/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/206826873094545/posts/10155907664494536', 'https://www.facebook.com/206826873094545/posts/397055307405033']
+crawl https://www.facebook.com/206826873094545/posts/10155907664494536
+has comments
+downloading videourl:https://www.facebook.com/micella.net/videos/10155907664494536/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/24520947_10155907664654536_4390665360697720832_n.jpg?_nc_cat=1&oh=6ce89125af385d13879b46cab37a681d&oe=5C1EDE01
+download start
+ download finished
+
+crawl https://www.facebook.com/206826873094545/posts/397055307405033
+has comments
+no video
+[{'siteid': 24, 'likes': 17000.0, 'views': 3600000.0, 'comments': 3300.0, 'shares': 5900.0, 'url': 'https://www.facebook.com/206826873094545/posts/10155907664494536', 'adsurl': 'https://www.facebook.com/pg/micella.net/ads/?country=1', 'name': 'micella.net', 'countryid': '1', 'dealurl': 'http://goto.micella.net/58b66632', 'firstimage': 'image/5326782e2fff3120ac070088f6c69610.jpg', 'video': 'video/803791e32e1936f18f294a08fcef57a1.mp4', 'images': '', 'message': 'UHJhY3RpY2UgeW91ciBwaWFubyBza2lsbHMgb3IgeW91ciBjaGlsZHJlbidzIHNraWxscyBhbnl3aGVyZSwgYW55dGltZSwgd2l0aCB0aGlzIFBpYW5vUm9sbOKEoiBQb3J0YWJsZSBFbGVjdHJvbmljIFBpYW5v8J+OufCfjrwgR2V0IDQwJSBvZmYgTm93IOKeoSB7e319', 'posttime': '1514482605', 'title': ''}]
+insert update successed!
+Start collecting https://www.facebook.com/pg/-IscanPro-289753158496233/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/289753158496233/posts/304324687039080', 'https://www.facebook.com/289753158496233/posts/314951775976371', 'https://www.facebook.com/289753158496233/posts/440237276487101', 'https://www.facebook.com/289753158496233/posts/1874941329251315', 'https://www.facebook.com/289753158496233/posts/303310173807198', 'https://www.facebook.com/289753158496233/posts/302976897173859', 'https://www.facebook.com/289753158496233/posts/440238156487013', 'https://www.facebook.com/289753158496233/posts/312816266189922', 'https://www.facebook.com/289753158496233/posts/439352906575538', 'https://www.facebook.com/289753158496233/posts/1883121705109057', 'https://www.facebook.com/289753158496233/posts/314953729309509', 'https://www.facebook.com/289753158496233/posts/302976380507244']
+crawl https://www.facebook.com/289753158496233/posts/304324687039080
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/257171741579701/
+crawl https://www.facebook.com/289753158496233/posts/314951775976371
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/263382227625319/
+crawl https://www.facebook.com/289753158496233/posts/440237276487101
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/440237276487101/
+crawl https://www.facebook.com/289753158496233/posts/1874941329251315
+has comments
+no video
+crawl https://www.facebook.com/289753158496233/posts/303310173807198
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/256376668325875/
+crawl https://www.facebook.com/289753158496233/posts/302976897173859
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/256146355015573/
+crawl https://www.facebook.com/289753158496233/posts/440238156487013
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/440238156487013/
+crawl https://www.facebook.com/289753158496233/posts/312816266189922
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/2103420689976374/
+crawl https://www.facebook.com/289753158496233/posts/439352906575538
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/439352906575538/
+crawl https://www.facebook.com/289753158496233/posts/1883121705109057
+has comments
+no video
+crawl https://www.facebook.com/289753158496233/posts/314953729309509
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/2105773926407717/
+crawl https://www.facebook.com/289753158496233/posts/302976380507244
+has comments
+downloading videourl:https://www.facebook.com/-IscanPro-289753158496233/videos/256145885015620/
+[]
+Start collecting https://www.facebook.com/pg/itFit/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/684170118261188/posts/1300785239933003', 'https://www.facebook.com/684170118261188/posts/10155587710338470', 'https://www.facebook.com/684170118261188/posts/1300785363266324', 'https://www.facebook.com/684170118261188/posts/1300785289932998', 'https://www.facebook.com/684170118261188/posts/1300785313266329']
+crawl https://www.facebook.com/684170118261188/posts/1300785239933003
+has comments
+no video
+crawl https://www.facebook.com/684170118261188/posts/10155587710338470
+has comments
+downloading videourl:https://www.facebook.com/itFit/videos/10155587710338470/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/19675840_10155587710428470_4736426097929879552_n.jpg?_nc_cat=0&oh=3ee806fad70907a7f6151834ea61092d&oe=5C26D1F0
+download start
+ download finished
+
+crawl https://www.facebook.com/684170118261188/posts/1300785363266324
+has comments
+no video
+crawl https://www.facebook.com/684170118261188/posts/1300785289932998
+has comments
+no video
+crawl https://www.facebook.com/684170118261188/posts/1300785313266329
+has comments
+no video
+[{'siteid': 26, 'likes': 75000.0, 'views': 12000000.0, 'comments': 20000.0, 'shares': 42000.0, 'url': 'https://www.facebook.com/684170118261188/posts/10155587710338470', 'adsurl': 'https://www.facebook.com/pg/itFit/ads/?country=1', 'name': 'itFit', 'countryid': '1', 'dealurl': 'https://www.itfit.com/products/entirecomfort-pro', 'firstimage': 'image/8e1c5eb4f19c10f8acd6bc51051d15a8.jpg', 'video': 'video/a6c900e78f2d71ee292170e67217f4ea.mp4', 'images': '', 'message': 'VGhlIG9yaWdpbmFsIEVudGlyZUNvbWZvcnTihKIgRnVsbCBCb2R5IFBpbGxvdyBoZWxwcyB3aXRoIGJhY2sgcGFpbiwgZmlicm9teWFsZ2lhLCBudXJzaW5nIGFuZCByaGV1bWF0b2lkIGFydGhyaXRpcyEgTWFkZSBpbiBVU0Eg8J+HuvCfh7jwn4e68J+HuPCfh7rwn4e4IDUuNSBGRUVUIExPTkchIFN0YXJ0IGdldHRpbmcgYSBiZXR0ZXIgbmlnaHRzIHNsZWVwIHRvZGF5ISAgR2V0IGl0IGhlcmUg8J+RiSB7e319', 'posttime': '1498839121', 'title': '60% OFF TODAY ONLY!'}]
+insert update successed!
+Start collecting https://www.facebook.com/pg/Produtos-úteis-1369046106555503/ads/?country=0
+crawl0page
+crawl1page
+['https://www.facebook.com/1369046106555503/posts/10213210828879072', 'https://www.facebook.com/1369046106555503/posts/10212970700556014', 'https://www.facebook.com/1369046106555503/posts/540397913063600', 'https://www.facebook.com/1369046106555503/posts/1658896844237093', 'https://www.facebook.com/1369046106555503/posts/1616416118485166', 'https://www.facebook.com/1369046106555503/posts/1489879257805520', 'https://www.facebook.com/1369046106555503/posts/1467021476757965', 'https://www.facebook.com/1369046106555503/posts/1473243789469067', 'https://www.facebook.com/1369046106555503/posts/1628264043967040', 'https://www.facebook.com/1369046106555503/posts/10155044823781516', 'https://www.facebook.com/1369046106555503/posts/1469190383207741', 'https://www.facebook.com/1369046106555503/posts/1599057596887685', 'https://www.facebook.com/1369046106555503/posts/1497096943750418', 'https://www.facebook.com/1369046106555503/posts/1566649546795157', 'https://www.facebook.com/1369046106555503/posts/2170929436464308']
+crawl https://www.facebook.com/1369046106555503/posts/10213210828879072
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10213210828879072/
+crawl https://www.facebook.com/1369046106555503/posts/10212970700556014
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10212970700556014/
+crawl https://www.facebook.com/1369046106555503/posts/540397913063600
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/540397913063600/
+crawl https://www.facebook.com/1369046106555503/posts/1658896844237093
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/251548818802842/
+crawl https://www.facebook.com/1369046106555503/posts/1616416118485166
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/1753200594787424/
+crawl https://www.facebook.com/1369046106555503/posts/1489879257805520
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10213491889265406/
+crawl https://www.facebook.com/1369046106555503/posts/1467021476757965
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10213314488510498/
+crawl https://www.facebook.com/1369046106555503/posts/1473243789469067
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10213363290130508/
+crawl https://www.facebook.com/1369046106555503/posts/1628264043967040
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/1765084923598991/
+crawl https://www.facebook.com/1369046106555503/posts/10155044823781516
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10155044823781516/
+crawl https://www.facebook.com/1369046106555503/posts/1469190383207741
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10213330527311458/
+crawl https://www.facebook.com/1369046106555503/posts/1599057596887685
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/1736927176414766/
+crawl https://www.facebook.com/1369046106555503/posts/1497096943750418
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/10213539573857491/
+crawl https://www.facebook.com/1369046106555503/posts/1566649546795157
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/1705319962908821/
+crawl https://www.facebook.com/1369046106555503/posts/2170929436464308
+has comments
+downloading videourl:https://www.facebook.com/Produtos-úteis-1369046106555503/videos/2170929436464308/
+[]
+Start collecting https://www.facebook.com/pg/Tasty-food-715135555314413/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/715135555314413/posts/242341496468775', 'https://www.facebook.com/715135555314413/posts/10213940358214891', 'https://www.facebook.com/715135555314413/posts/1933050340330076', 'https://www.facebook.com/715135555314413/posts/10214231444491866', 'https://www.facebook.com/715135555314413/posts/10214405730528908']
+crawl https://www.facebook.com/715135555314413/posts/242341496468775
+has comments
+downloading videourl:https://www.facebook.com/Tasty-food-715135555314413/videos/242341496468775/
+crawl https://www.facebook.com/715135555314413/posts/10213940358214891
+has comments
+downloading videourl:https://www.facebook.com/Tasty-food-715135555314413/videos/10213940358214891/
+crawl https://www.facebook.com/715135555314413/posts/1933050340330076
+has comments
+downloading videourl:https://www.facebook.com/Tasty-food-715135555314413/videos/1933050340330076/
+crawl https://www.facebook.com/715135555314413/posts/10214231444491866
+has comments
+downloading videourl:https://www.facebook.com/Tasty-food-715135555314413/videos/10214231444491866/
+crawl https://www.facebook.com/715135555314413/posts/10214405730528908
+has comments
+downloading videourl:https://www.facebook.com/Tasty-food-715135555314413/videos/10214405730528908/
+[]
+Start collecting https://www.facebook.com/pg/Funtastic-Gift-2072254702994666/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/2072254702994666/posts/2101121320108004', 'https://www.facebook.com/2072254702994666/posts/2155411758012293']
+crawl https://www.facebook.com/2072254702994666/posts/2101121320108004
+has comments
+downloading videourl:https://www.facebook.com/Funtastic-Gift-2072254702994666/videos/2101121320108004/
+crawl https://www.facebook.com/2072254702994666/posts/2155411758012293
+has comments
+downloading videourl:https://www.facebook.com/Funtastic-Gift-2072254702994666/videos/2155411758012293/
+[]
+Start collecting https://www.facebook.com/pg/nurasound/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/593578030792140/posts/462530230823420', 'https://www.facebook.com/593578030792140/posts/967459083404031', 'https://www.facebook.com/593578030792140/posts/921358141347459', 'https://www.facebook.com/593578030792140/posts/1737504656319174', 'https://www.facebook.com/593578030792140/posts/10156089630345067', 'https://www.facebook.com/593578030792140/posts/10156065062840067', 'https://www.facebook.com/593578030792140/posts/1084064961743442', 'https://www.facebook.com/593578030792140/posts/422057974988331', 'https://www.facebook.com/593578030792140/posts/1084073955075876', 'https://www.facebook.com/593578030792140/posts/10156214006340067', 'https://www.facebook.com/593578030792140/posts/2184192141651836']
+crawl https://www.facebook.com/593578030792140/posts/462530230823420
+has comments
+downloading videourl:https://www.facebook.com/nurasound/videos/462530230823420/
+crawl https://www.facebook.com/593578030792140/posts/967459083404031
+has comments
+no video
+crawl https://www.facebook.com/593578030792140/posts/921358141347459
+has comments
+no video
+crawl https://www.facebook.com/593578030792140/posts/1737504656319174
+crawl https://www.facebook.com/593578030792140/posts/10156089630345067
+has comments
+downloading videourl:https://www.facebook.com/nurasound/videos/10156089630345067/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/29785946_10156089630385067_5561167588081270784_n.jpg?_nc_cat=0&oh=069eb56037763a1d2acac63a1aa202d0&oe=5C2A95A7
+download start
+ download finished
+
+crawl https://www.facebook.com/593578030792140/posts/10156065062840067
+has comments
+downloading videourl:https://www.facebook.com/nurasound/videos/10156065062840067/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/29768176_10156065062955067_2507030238114873344_n.jpg?_nc_cat=0&oh=4deb3c3922b47769ba5acd2a50405f3b&oe=5C195717
+download start
+ download finished
+
+crawl https://www.facebook.com/593578030792140/posts/1084064961743442
+crawl https://www.facebook.com/593578030792140/posts/422057974988331
+crawl https://www.facebook.com/593578030792140/posts/1084073955075876
+has comments
+no video
+crawl https://www.facebook.com/593578030792140/posts/10156214006340067
+has comments
+downloading videourl:https://www.facebook.com/nurasound/videos/10156214006340067/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/36016025_10156214006390067_6129428861269573632_n.jpg?_nc_cat=0&oh=ef84acbb5b037e5b05ac59caf44fbdf8&oe=5C18176B
+download start
+ download finished
+
+crawl https://www.facebook.com/593578030792140/posts/2184192141651836
+[{'siteid': 32, 'likes': 1300.0, 'views': 801000.0, 'comments': '177', 'shares': '104', 'url': 'https://www.facebook.com/593578030792140/posts/10156089630345067', 'adsurl': 'https://www.facebook.com/pg/nurasound/ads/?country=1', 'name': 'nurasound', 'countryid': '1', 'dealurl': 'https://', 'firstimage': 'image/4f6b0fb4d1288450bf0a0ebc2c5c908a.jpg', 'video': 'video/7ec43c33660023ce89d16fd9b094b02f.mp4', 'images': '', 'message': 'VGhlIGhlYWRwaG9uZSBoYXMgYmVlbiByZWludmVudGVkLg==', 'posttime': '1528180145', 'title': '"You\'re not going to believe me until you try it." - UnboxTherapy'}, {'siteid': 32, 'likes': '617', 'views': 1100000.0, 'comments': '81', 'shares': '145', 'url': 'https://www.facebook.com/593578030792140/posts/10156065062840067', 'adsurl': 'https://www.facebook.com/pg/nurasound/ads/?country=1', 'name': 'nurasound', 'countryid': '1', 'dealurl': 'https://www.nuraphone.com', 'firstimage': 'image/de8e55b7d33d9e744b57d838f8c1c44b.jpg', 'video': 'video/03edb716fbd94a84a04e967d0216d410.mp4', 'images': '', 'message': 'VGhpcyBBdXN0cmFsaWFuIGludmVudGlvbiBoYXMgY2hhbmdlZCB0aGUgd2F5IHdlIGxpc3RlbiB0byBtdXNpYyDwn46nICAgLSBXaW5uZXIgb2YgQ0VTIEJlc3Qgb2YgSW5ub3ZhdGlvbiBBd2FyZCAyMDE4ICAgLSBXaW5uZXIgb2YgUmVkIERvdCdzIEJlc3Qgb2YgdGhlIEJlc3QgQXdhcmQgMjAxOCAgIC0gV2lubmVyIG9mIHRoZSBHb29kIERlc2lnbiBBd2FyZCAyMDE4IEF2YWlsYWJsZSBub3cge3t9fQ==', 'posttime': '1527209439', 'title': ''}, {'siteid': 32, 'likes': 2000.0, 'views': 587000.0, 'comments': '145', 'shares': '105', 'url': 'https://www.facebook.com/593578030792140/posts/10156214006340067', 'adsurl': 'https://www.facebook.com/pg/nurasound/ads/?country=1', 'name': 'nurasound', 'countryid': '1', 'dealurl': 'https://', 'firstimage': 'image/419aed2cfeffb2eafe73c366e8510287.jpg', 'video': 'video/23b371fc093c71be71b5605fda21dde3.mp4', 'images': '', 'message': 'IkkgaGFkIGV4cGVjdGF0aW9ucyBiZWNhdXNlIEkga2VwdCBmZXZlcmlzaGx5IHdhdGNoaW5nIHJldmlld3MuIEkgaGFkIHRvIHNlZSB3aGF0IHRoZSBoeXBlIHdhcyBhYm91dC4gSXQncyB0cnVlLiBTd2FsbG93IHRoYXQgcGlsbCBhbmQgZ3JhYiB0aGVzZS4gWW91J3ZlIG5ldmVyIGV4cGVyaWVuY2VkIGF1ZGlvIGxpa2UgdGhpcy4iIC0gSnVsaWFuIFIgVGhlIGhlYWRwaG9uZSBoYXMgYmVlbiByZWludmVudGVkIPCfjqcgV2hhdCB3aWxsIHlvdXIgcmVhY3Rpb24gYmUgdG8gcGVyc29uYWxpc2VkIHNvdW5kPw==', 'posttime': '1532933674', 'title': '★★★★★ - Lives up to the hype.'}]
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/dealsweel/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/2068859886774344/posts/270080310270545']
+crawl https://www.facebook.com/2068859886774344/posts/270080310270545
+has comments
+downloading videourl:https://www.facebook.com/dealsweel/videos/270080310270545/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38206136_270080340270542_4679045601143291904_n.jpg?_nc_cat=1&oh=61203cb6f57a7bfd2963e829579b5049&oe=5C15067C
+download start
+ download finished
+
+[{'siteid': 33, 'likes': 1300.0, 'views': 360000.0, 'comments': '129', 'shares': '768', 'url': 'https://www.facebook.com/2068859886774344/posts/270080310270545', 'adsurl': 'https://www.facebook.com/pg/dealsweel/ads/?country=1', 'name': 'dealsweel', 'countryid': '1', 'dealurl': 'https://dealsweel.com/products/spotless-oil', 'firstimage': 'image/dc93f06237098586a3bd89fcb77276d5.jpg', 'video': 'video/2257014a56608fd6c3d2e46291eb3d99.mp4', 'images': '', 'message': '4p2j77iPQnJpZ2h0ZW4gWW91ciBTa2luLCBSZW1vdmUgRGFyayBTcG90cyBhbmQgU2NhcnMgd2l0aCB0aGlzIGFtYXppbmcgU3BvdGxlc3MgT2lsISBHcmFiIFlvdXJzIPCfkYl7e319', 'posttime': '1534906243', 'title': 'Spotless Oil'}]
+insert update successed!
+Start collecting https://www.facebook.com/pg/paradigmgoods/ads/?country=0
+crawl0page
+crawl1page
+['https://www.facebook.com/1795127277464308/posts/2028188357213793', 'https://www.facebook.com/1795127277464308/posts/2059323401044693', 'https://www.facebook.com/1795127277464308/posts/2226412417644127', 'https://www.facebook.com/1795127277464308/posts/2044929742206321', 'https://www.facebook.com/1795127277464308/posts/2028000650565897', 'https://www.facebook.com/1795127277464308/posts/2091680400864588', 'https://www.facebook.com/1795127277464308/posts/10156786983365362', 'https://www.facebook.com/1795127277464308/posts/2060768940900139', 'https://www.facebook.com/1795127277464308/posts/546182772505922']
+crawl https://www.facebook.com/1795127277464308/posts/2028188357213793
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/2028188357213793/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/31439717_2028188413880454_4291737480593408000_n.jpg?_nc_cat=0&oh=8a90bd8dca93c4f740153ad6f942d80a&oe=5C384A7A
+download start
+ download finished
+
+crawl https://www.facebook.com/1795127277464308/posts/2059323401044693
+has comments
+no video
+crawl https://www.facebook.com/1795127277464308/posts/2226412417644127
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/2226412417644127/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/37374768_2226412447644124_6115387767070392320_n.jpg?_nc_cat=0&oh=1682deed00be41b002077115acbe11d4&oe=5C2F3E48
+download start
+ download finished
+
+crawl https://www.facebook.com/1795127277464308/posts/2044929742206321
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/2044929742206321/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/36127277_2034627360185079_8556676023117152256_n.jpg?_nc_cat=0&oh=1347ba6dd925ac2b3b2cc57c6251d166&oe=5C3511CE
+download start
+ download finished
+
+crawl https://www.facebook.com/1795127277464308/posts/2028000650565897
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/2028000650565897/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/35764410_2028000797232549_7244771953246994432_n.jpg?_nc_cat=0&oh=866944206452e84a6e44d2182d7d43a2&oe=5C237C6D
+download start
+ download finished
+
+crawl https://www.facebook.com/1795127277464308/posts/2091680400864588
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/2091680400864588/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/36127277_2034627360185079_8556676023117152256_n.jpg?_nc_cat=0&oh=1347ba6dd925ac2b3b2cc57c6251d166&oe=5C3511CE
+download start
+ download finished
+
+crawl https://www.facebook.com/1795127277464308/posts/10156786983365362
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/10156786983365362/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/37556604_10156786983405362_5877473229144064000_n.jpg?_nc_cat=0&oh=5b54c2c0976b80f16444e5a9cb51fa5c&oe=5C22F1A2
+download start
+ download finished
+
+crawl https://www.facebook.com/1795127277464308/posts/2060768940900139
+crawl https://www.facebook.com/1795127277464308/posts/546182772505922
+has comments
+downloading videourl:https://www.facebook.com/paradigmgoods/videos/546182772505922/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38945661_546182782505921_2270353857655603200_n.jpg?_nc_cat=0&oh=0b8a4c50ab9fda7ba644f3f9d581d12f&oe=5C1AD46C
+download start
+ download finished
+
+[{'siteid': 34, 'likes': 16000.0, 'views': 4800000.0, 'comments': 1300.0, 'shares': 6200.0, 'url': 'https://www.facebook.com/1795127277464308/posts/2028188357213793', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'https://paradigmgoods.com/mini', 'firstimage': 'image/69702598915a9bc8f42061d5955644d0.jpg', 'video': 'video/1a616c9e8a222851056cebd680b35863.mp4', 'images': '', 'message': 'RmluYWxseSwgeW91IGNhbiByZWNvcmQgaGlnaCBkZWZpbml0aW9uIHZpZGVvIGFuZCBjcnlzdGFsIGNsZWFyIHZvaWNlISBBbHNvLCBlYXNpbHkgY29uY2VhbCBpbiB5b3VyIHBvY2tldCBmb3IgY292ZXJ0IHJlY29yZGluZyEg8J+OpfCfpJMgR3JhYiB5b3VycyDihpIge3t9fQ==', 'posttime': '1533337554', 'title': 'Get 60% OFF Discount if you Buy Now'}, {'siteid': 34, 'likes': '740', 'views': 255000.0, 'comments': '140', 'shares': '192', 'url': 'https://www.facebook.com/1795127277464308/posts/2226412417644127', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'https://paradigmgoods.com/earpods', 'firstimage': 'image/e67632cdd153b61a16c8749de7be5a8b.jpg', 'video': 'video/304bae01d5664590e447eaade9a6cd44.mp4', 'images': '', 'message': 'SGF2ZSB5b3UgZXZlciB3YW50ZWQgdG8gZ2V0IHlvdXIgaGFuZHMgb24gYSBwYWlyIG9mIGpldCBibGFjayBlYXJidWRzPyBPdXIgYmxhY2sgY2xhc3NpYyBlYXJidWRzIGNvbWUgd2l0aCBhIGJsYWNrIGNoYXJnaW5nIGNhc2UgYW5kIGFyZSB0aGUgcGVyZmVjdCBhY2Nlc3NvcnkgYW55d2hlcmUgdGhleSBtdXNpYyB0YWtlcyB5b3UuIPCfjrbwn46nIEdyYWIgWW91cnMg4oaSIHt7fX0=', 'posttime': '1534579047', 'title': 'Click Here to Get Yours Now!'}, {'siteid': 34, 'likes': '39', 'views': 1600000.0, 'comments': '2', 'shares': '6', 'url': 'https://www.facebook.com/1795127277464308/posts/2044929742206321', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'https://paradigmgoods.com/wrist-band', 'firstimage': 'image/d7edb047c62c8efef12841f0b8ba4ef0.jpg', 'video': 'video/366ffc20b7fe227339969ead7933cd29.mp4', 'images': '', 'message': '4oCcSSBsb3ZlIG15IHdyaXN0IHBvdWNoLCBJIHRha2UgaXQgd2l0aCBtZSB3aGVuIEkgZ28gdG8gdGhlIGd5bSBhcyBJIGRvbnQgaGF2ZSBhIG5lZWQgZm9yIGEgbGFyZ2UgYmFnIiAtIEVyaWsgTS4gR2V0IFlvdXJzIOKGkiB7e319', 'posttime': '1534135509', 'title': 'Click Here to Get Yours Now!'}, {'siteid': 34, 'likes': 8700.0, 'views': 1600000.0, 'comments': '804', 'shares': 3200.0, 'url': 'https://www.facebook.com/1795127277464308/posts/2028000650565897', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'https://paradigmgoods.com/wrist-band', 'firstimage': 'image/d6243597d0b14590fbc3426d68de2111.jpg', 'video': 'video/09e1f93c251ecbf74670c83680c566c9.mp4', 'images': '', 'message': 'VGhpcyB3cmlzdCBiYW5kIHBvdWNoIGxldHMgeW91IGNhcnJ5IHlvdXIgdmFsdWFibGVzIGNvbnZlbmllbnRseSEgQSBydW5uZXIncyBiZXN0IGZyaWVuZC4gQWNjZXNzIHlvdXIgY2FzaCwgY2FyZHMsIGtleXMsIG9yIHBob25lIHdpdGhpbiB5b3VyIHdyaXN0ISDwn4+D8J+YjSBHcmFiIHlvdXJzIOKGkiB7e319', 'posttime': '1533329206', 'title': 'Get 60% OFF Discount if you Buy Now'}, {'siteid': 34, 'likes': '5', 'views': 1600000.0, 'comments': 0, 'shares': '1', 'url': 'https://www.facebook.com/1795127277464308/posts/2091680400864588', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'https://paradigmgoods.com/wrist-band', 'firstimage': 'image/5c18ee09f37fbd881f4e266e5e7bef5c.jpg', 'video': 'video/336d401db4dbdd5370e918e75017c708.mp4', 'images': '', 'message': 'T3VyIGJlc3Qgc2VsbGluZyBXcmlzdCBQb3VjaCBpcyB0aGUgcGVyZmVjdCBhZGRpdGlvbiB0byB5b3VyIHRyYXZlbCBnZWFyISBUb2RheSB3ZSBhcmUgb2ZmZXJpbmcgZnJlZSBzaGlwcGluZyB3aXRoIGNvZGU6IEZCU0hJUCBHZXQgWW91cnMg4oaSIHt7fX0=', 'posttime': '1536785824', 'title': 'Click Here to Get Yours Now!'}, {'siteid': 34, 'likes': 2000.0, 'views': 599000.0, 'comments': '753', 'shares': '920', 'url': 'https://www.facebook.com/1795127277464308/posts/10156786983365362', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'http://paradigmgoods.com/mighty', 'firstimage': 'image/643b9ba361b64f00c140e9bdab115612.jpg', 'video': 'video/e362c403eeff45a2d67a5100a7af45c9.mp4', 'images': '', 'message': 'RmluYWxseSwgeW91IGNhbiByZW1vdmUgdGhlIHRvdWdoZXN0IHN0YWlucyBlYXNpbHkgd2l0aCB0aGUgTWlnaHR5IENsZWFuZXIuIFlvdXIgY291Y2gsIHN0b3ZlLCBmcmlkZ2UsIGJlZCBhbmQgbW9yZSBpcyBqdXN0IGEgZmV3IHNwcmF5cyBhd2F5IGZyb20gYmVjb21pbmcgbGlrZSBuZXcgb25jZSBhZ2FpbiEg4pyoIEdyYWIgWW91cnMg4oaSIHt7fX0=', 'posttime': '1533783818', 'title': 'Grab Yours While Supplies Last! Now Over 40% Off!'}, {'siteid': 34, 'likes': '4', 'views': 40.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/1795127277464308/posts/546182772505922', 'adsurl': 'https://www.facebook.com/pg/paradigmgoods/ads/?country=0', 'name': 'paradigmgoods', 'countryid': '0', 'dealurl': 'https://paradigmgoods.com/touchpad', 'firstimage': 'image/cd617e33d149aa2cefda45ebbcf75eb7.jpg', 'video': 'video/42d9e2ca96b4da9fd00cf9074250d87f.mp4', 'images': '', 'message': 'RmluYWxseSwgYSBmdWxsIGtleWJvYXJkIHRoYXQgZm9sZHMgaW4gb24gaXRzZWxmIHByb3RlY3RpbmcgaXQgd2hlbiBpdCdzIG5vdCBpbiB1c2UhIEdyYWIgeW91cnMgdG9kYXkgZm9yIDIwJSBvZmYgd2l0aCBjb2RlOiBGQjIwIEdldCBZb3VycyDihpIge3t9fQ==', 'posttime': '1536654833', 'title': 'Click Here to Get Yours Now!'}]
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/NewLook-418394532016011/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/418394532016011/posts/444827226039408', 'https://www.facebook.com/418394532016011/posts/320196198736617']
+crawl https://www.facebook.com/418394532016011/posts/444827226039408
+has comments
+downloading videourl:https://www.facebook.com/NewLook-418394532016011/videos/511738909237175/
+crawl https://www.facebook.com/418394532016011/posts/320196198736617
+has comments
+downloading videourl:https://www.facebook.com/NewLook-418394532016011/videos/320196198736617/
+[]
+Start collecting https://www.facebook.com/pg/semiperdo/ads/?country=12
+crawl0page
+crawl1page
+['https://www.facebook.com/1626806654227329/posts/10156666947209834', 'https://www.facebook.com/1626806654227329/posts/464445507399033', 'https://www.facebook.com/1626806654227329/posts/2061229940574676', 'https://www.facebook.com/1626806654227329/posts/10156666947594834', 'https://www.facebook.com/1626806654227329/posts/2128180220756634', 'https://www.facebook.com/1626806654227329/posts/10156623924609834', 'https://www.facebook.com/1626806654227329/posts/2128179774090012', 'https://www.facebook.com/1626806654227329/posts/2128180120756644', 'https://www.facebook.com/1626806654227329/posts/2021612994746691', 'https://www.facebook.com/1626806654227329/posts/464445450732372', 'https://www.facebook.com/1626806654227329/posts/2122491141325542', 'https://www.facebook.com/1626806654227329/posts/10156666950089834', 'https://www.facebook.com/1626806654227329/posts/1895305033894562', 'https://www.facebook.com/1626806654227329/posts/1975841539128783', 'https://www.facebook.com/1626806654227329/posts/1864731677101491', 'https://www.facebook.com/1626806654227329/posts/1562147117223908']
+crawl https://www.facebook.com/1626806654227329/posts/10156666947209834
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/10156666947209834/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38984217_10156666947229834_7281092829516922880_n.jpg?_nc_cat=0&oh=94eff369f1d80327b8d03a33e38f3fd9&oe=5C2B999B
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/464445507399033
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/464445507399033/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38961483_464445520732365_1587171680671760384_n.jpg?_nc_cat=0&oh=3231dec6b11375f242373a4daab3be96&oe=5C1AF078
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/2061229940574676
+crawl https://www.facebook.com/1626806654227329/posts/10156666947594834
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/10156666947594834/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38961698_10156666947619834_7353634436304338944_n.jpg?_nc_cat=0&oh=a98bf6fb649bb0729e86b8b1d15e8c0a&oe=5C17B170
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/2128180220756634
+crawl https://www.facebook.com/1626806654227329/posts/10156623924609834
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/10156623924609834/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38857239_10156623924654834_2977784917481488384_n.jpg?_nc_cat=0&oh=c0271eaae77de112d9dce02fdf8f1204&oe=5C1F423A
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/2128179774090012
+crawl https://www.facebook.com/1626806654227329/posts/2128180120756644
+crawl https://www.facebook.com/1626806654227329/posts/2021612994746691
+has comments
+no video
+crawl https://www.facebook.com/1626806654227329/posts/464445450732372
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/464445450732372/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/40547435_464445474065703_608011315771867136_n.jpg?_nc_cat=0&oh=28d81e1f066ba2181baab82be19780a5&oe=5C256C55
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/2122491141325542
+has comments
+no video
+crawl https://www.facebook.com/1626806654227329/posts/10156666950089834
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/10156666950089834/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38982763_10156666950174834_3790549809723604992_n.jpg?_nc_cat=0&oh=0da34553ebe5fd620d636bceb0a7dbe4&oe=5C3708EA
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/1895305033894562
+crawl https://www.facebook.com/1626806654227329/posts/1975841539128783
+crawl https://www.facebook.com/1626806654227329/posts/1864731677101491
+has comments
+downloading videourl:https://www.facebook.com/semiperdo/videos/1864731677101491/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p960x960/18442703_1864732000434792_4391869914340655104_n.jpg?_nc_cat=0&oh=3036b3834c9fb7551147f8eddbe1f995&oe=5C29C084
+download start
+ download finished
+
+crawl https://www.facebook.com/1626806654227329/posts/1562147117223908
+[{'siteid': 36, 'likes': 0, 'views': 0.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/1626806654227329/posts/10156666947209834', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://See Translation', 'firstimage': 'image/17b79aa7c9f83f24b9dacb5bc346b235.jpg', 'video': 'video/60cb9d1bca7a2f2663d33d53cad76c63.mp4', 'images': '', 'message': 'RWhpLCBtaSBoYWkgbGFzY2lhdG8gbmVsIGNhcnJlbGxvISBDb21wbGV0YSBvcmEgaWwgdHVvIGFjcXVpc3RvIFNlbWlwZXJkbyBlIHJpY2V2ZXJhaSB1bm8gc2NvbnRvIGRlbCAxMCUgY29uIGlsIGNvdXBvbiBzbXAtY2FydGJyMTgsIGRhIGluc2VyaXJlIGFsbGEgY2Fzc2EhIEFmZnJldHRhdGksIGhhaSBzb2xvIHBvY2hpIGdpb3JuaS57e319', 'posttime': '1537174674', 'title': 'Uno sconto speciale solo per te!'}, {'siteid': 36, 'likes': '2', 'views': 41000.0, 'comments': 0, 'shares': '2', 'url': 'https://www.facebook.com/1626806654227329/posts/464445507399033', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://shop.semiperdo.com', 'firstimage': 'image/8855b1000aca8bde54186eece093456e.jpg', 'video': 'video/bb44ca9b38f2a3ce6de7342e0ead570a.mp4', 'images': '', 'message': '8J+QlSBQcm90ZWdnaSBpbCB0dW8gY3VjY2lvbG8gY29uIFNlbWlwZXJkbywgdW4gY29sbGFyZSBsZWdnZXJpc3NpbW8sIHRvdGFsbWVudGUgc2ljdXJvIGUgZmFjaWxlIGRhIHVzYXJlLCBhIGN1aSBwdW9pIGFzc29jaWFyZSBmaW5vIGEgdHJlIG51bWVyaSBkaSB0ZWxlZm9ubyBlIHRyZSBpbmRpcml6emkgZS1tYWlsIPCfkL7wn5C+8J+QviDwn5Oye3t9fQ==', 'posttime': '1536938874', 'title': 'Proteggi chi ami con Semiperdo!'}, {'siteid': 36, 'likes': 0, 'views': 0.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/1626806654227329/posts/10156666947594834', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://See Translation', 'firstimage': 'image/bc32a8f33f628b406bc7436ce79168af.jpg', 'video': 'video/cab74bd01379a4a6dccf4c1afba68c35.mp4', 'images': '', 'message': 'RWhpLCBtaSBoYWkgbGFzY2lhdG8gbmVsIGNhcnJlbGxvISBDb21wbGV0YSBvcmEgaWwgdHVvIGFjcXVpc3RvIFNlbWlwZXJkbyBlIHJpY2V2ZXJhaSB1bm8gc2NvbnRvIGRlbCAxMCUgY29uIGlsIGNvdXBvbiBzbXAtY2FydGJyMTgsIGRhIGluc2VyaXJlIGFsbGEgY2Fzc2EhIEFmZnJldHRhdGksIGhhaSBzb2xvIHBvY2hpIGdpb3JuaS57e319', 'posttime': '1537174707', 'title': 'Uno sconto speciale solo per te!'}, {'siteid': 36, 'likes': '60', 'views': 62000.0, 'comments': '12', 'shares': '10', 'url': 'https://www.facebook.com/1626806654227329/posts/10156623924609834', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://shop.semiperdo.com', 'firstimage': 'image/56fb4558c5cd1352c9e2d20a20eb9aaa.jpg', 'video': 'video/9083d27c3a2424fde6e4fda82651773b.mp4', 'images': '', 'message': 'U2VtaXBlcmRvIMOoIGzigJlpbm5vdmF0aXZvIGJyYWNjaWFsZXR0byBpbnRlbGxpZ2VudGUgY2hlIHRpIGFpdXRhIGEgcHJvdGVnZ2VyZSBjaGkgYW1pLiBDb3N0YSBzb2xvIDIw4oKsLCBjb24gc2Vydml6aSBpbmNsdXNpIGEgdml0YS4gU2NvcHJpIGRpIHBpw7kgc3Uge3t9fQ==', 'posttime': '1535549891', 'title': 'Proteggi chi ami con Semiperdo!'}, {'siteid': 36, 'likes': '8', 'views': 41000.0, 'comments': '1', 'shares': '2', 'url': 'https://www.facebook.com/1626806654227329/posts/464445450732372', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://shop.semiperdo.com.', 'firstimage': 'image/655418d93c8a8b1f58c353207f14ca59.jpg', 'video': 'video/ecee171ac93ef41725a0c572b2bfba11.mp4', 'images': '', 'message': 'U2VtaXBlcmRvIMOoIGzigJlpbm5vdmF0aXZvIHNpc3RlbWEgY2hlIHRpIGFpdXRhIGEgcml0cm92YXJlIGlsIHR1byBhbWljbyBhIHF1YXR0cm8gemFtcGUgbmVsIGNhc28gc2kgc21hcnJpc2NhLiBTY29wcmkgdHV0dG8gc3Uge3t9fQ==', 'posttime': '1536938874', 'title': 'Proteggi chi ami con Semiperdo!'}, {'siteid': 36, 'likes': 0, 'views': 0.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/1626806654227329/posts/10156666950089834', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://See Translation', 'firstimage': 'image/720a278dea0cfe848742eb34853097d8.jpg', 'video': 'video/a17e8f9506d410262ac566ef5cc209fd.mp4', 'images': '', 'message': 'UXVlc3RvIHdlZWtlbmQsIGFwcHJvZml0dGEgZGkgdW5hIHByb21vemlvbmUgaXJyaXBldGliaWxlISBTY29udG8gZGVsIDIwJSBzdSB0dXR0aSBpIGNvbGxhcmkgcGVyIHBvY2hlIG9yZS4gU2NlZ2xpIGlsIHR1byBwcmVmZXJpdG8he3t9fQ==', 'posttime': '1537174909', 'title': 'Uno sconto speciale solo per te!'}, {'siteid': 36, 'likes': 2100.0, 'views': 571000.0, 'comments': '440', 'shares': 1200.0, 'url': 'https://www.facebook.com/1626806654227329/posts/1864731677101491', 'adsurl': 'https://www.facebook.com/pg/semiperdo/ads/?country=12', 'name': 'semiperdo', 'countryid': '12', 'dealurl': 'https://Semiperdo', 'firstimage': 'image/f8b246e6ca1dacadd1109ae8b4257a75.jpg', 'video': 'video/5002a0e1bfe47d916faca61c8815886e.mp4', 'images': '', 'message': 'R2lvdmFubmkgw6ggZ2nDoCBwcm9udG8gcGVyIGlsIG1hcmUhIEJhbmRhbmEgaW4gdGVzdGEgZS4uLiBCcmFjY2lhbGV0dG8ge3t9fQ==', 'posttime': '1494309720', 'title': 'Braccialetto Semiperdo per la spiaggia!'}]
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/RECTECGrills/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/184981481546020/posts/2051692081541608', 'https://www.facebook.com/184981481546020/posts/1849253695160930', 'https://www.facebook.com/184981481546020/posts/1971389042905246', 'https://www.facebook.com/184981481546020/posts/2157133360997479', 'https://www.facebook.com/184981481546020/posts/1999103666800450']
+crawl https://www.facebook.com/184981481546020/posts/2051692081541608
+has comments
+downloading videourl:https://www.facebook.com/RECTECGrills/videos/10212120713317737/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/34976739_10212120714117757_6327546515699007488_n.jpg?_nc_cat=0&oh=eb885a364d2f3d1447dcc1022ccddc61&oe=5C1FC76D
+download start
+ download finished
+
+crawl https://www.facebook.com/184981481546020/posts/1849253695160930
+has comments
+downloading videourl:https://www.facebook.com/RECTECGrills/videos/1849253695160930/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38952487_532412620545836_5572037613436534784_n.jpg?_nc_cat=0&oh=5265541f23fc8be03dce27a6f9d61882&oe=5C1B6D9A
+download start
+ download finished
+
+crawl https://www.facebook.com/184981481546020/posts/1971389042905246
+has comments
+no video
+crawl https://www.facebook.com/184981481546020/posts/2157133360997479
+has comments
+no video
+crawl https://www.facebook.com/184981481546020/posts/1999103666800450
+has comments
+downloading videourl:https://www.facebook.com/RECTECGrills/videos/10211890925413183/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/30851725_10211890925613188_5281078906554679296_n.jpg?_nc_cat=0&oh=3e7df9156277dad75cbf5a6e95ef6bf3&oe=5C34FD43
+download start
+ download finished
+
+[{'siteid': 37, 'likes': 4700.0, 'views': 1200000.0, 'comments': '618', 'shares': '667', 'url': 'https://www.facebook.com/184981481546020/posts/2051692081541608', 'adsurl': 'https://www.facebook.com/pg/RECTECGrills/ads/?country=1', 'name': 'RECTECGrills', 'countryid': '1', 'dealurl': 'https://rectecgrills.com', 'firstimage': 'image/8a34f30b74414d4c53d8d509ac5c2400.jpg', 'video': 'video/fa090fc1320bc073e89d498fb8816e8e.mp4', 'images': '', 'message': 'Tm93IGlzIHRoZSB0aW1lIHRvIGJyaW5nIHlvdXIgZ3JpbGxpbmcgZ2FtZSBpbnRvIHRoaXMgY2VudHVyeSB3aXRoIFJFQyBURUMncyBwcm9wcmlldGFyeSBTbWFydCBHcmlsbCBUZWNobm9sb2d54oSiLCBXaUZpIGNvbm5lY3Rpdml0eSwgSG90IEZsYXNoIENlcmFtaWMgSWduaXRpb24gJmFtcDsgc3RhaW5sZXNzIHN0ZWVsIGNvbnN0cnVjdGlvbi4=', 'posttime': '1531174456', 'title': "You work hard enough, it's time to play easy."}, {'siteid': 37, 'likes': '481', 'views': 41000.0, 'comments': '74', 'shares': '86', 'url': 'https://www.facebook.com/184981481546020/posts/1849253695160930', 'adsurl': 'https://www.facebook.com/pg/RECTECGrills/ads/?country=1', 'name': 'RECTECGrills', 'countryid': '1', 'dealurl': 'https://', 'firstimage': 'image/710bb87057d0fa8f8be159a3a312102b.jpg', 'video': 'video/b53c947e331215f3879890df5209cd73.mp4', 'images': '', 'message': 'Q29uc2lkZXJpbmcgYSBwZWxsZXQgZ3JpbGw/IExlYXJuIHRoZSAxMCB0aGluZ3MgeW91IG5lZWQgdG8ga25vdyBiZWZvcmUgeW91IGJ1eS4=', 'posttime': '1536602644', 'title': '10 Things To Know When Buying A Pellet Grill'}, {'siteid': 37, 'likes': 1400.0, 'views': 187000.0, 'comments': '127', 'shares': '163', 'url': 'https://www.facebook.com/184981481546020/posts/1999103666800450', 'adsurl': 'https://www.facebook.com/pg/RECTECGrills/ads/?country=1', 'name': 'RECTECGrills', 'countryid': '1', 'dealurl': 'https://rectecgrills.com', 'firstimage': 'image/b52b7f75bfe01fcb707ec34ca0ddd42d.jpg', 'video': 'video/069751617d8414691dac1ff02bc4b985.mp4', 'images': '', 'message': 'VGlyZWQgb2YgZmxhdm9ybGVzcyBmb29kIGNvb2tlZCBvbiBhIGdhcyBncmlsbCBhbmQgY2FuJ3Qgd2FpdCBmb3IgYSBjaGFyY29hbCBncmlsbCB0byBsaWdodD8gWW91IG5lZWQgYSBCdWxsc2V5ZSBpbiB5b3VyIGxpZmUhIEdyaWxsaW5nIG92ZXIgYSByZWFsIHdvb2QgZmlyZSBpcyBub3cgYXMgZWFzeSBhcyBmbGlwcGluZyBhIHN3aXRjaC4=', 'posttime': '1528231543', 'title': "The world's first pellet grill designed for grillers."}]
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/Indiegogo/ads/?country=0
+crawl0page
+crawl1page
+['https://www.facebook.com/7312612866/posts/10156834794962867', 'https://www.facebook.com/7312612866/posts/468580926973310', 'https://www.facebook.com/7312612866/posts/10156771982997867', 'https://www.facebook.com/7312612866/posts/10106170839210699', 'https://www.facebook.com/7312612866/posts/10156838853787867', 'https://www.facebook.com/7312612866/posts/317380589029345', 'https://www.facebook.com/7312612866/posts/10156834759502867', 'https://www.facebook.com/7312612866/posts/10156834822792867', 'https://www.facebook.com/7312612866/posts/10156695379082867', 'https://www.facebook.com/7312612866/posts/303431887090882', 'https://www.facebook.com/7312612866/posts/268118543797080', 'https://www.facebook.com/7312612866/posts/10156787447192867', 'https://www.facebook.com/7312612866/posts/10156855483272867', 'https://www.facebook.com/7312612866/posts/10106170838721679', 'https://www.facebook.com/7312612866/posts/10156855483157867', 'https://www.facebook.com/7312612866/posts/10156855482552867', 'https://www.facebook.com/7312612866/posts/303431300424274', 'https://www.facebook.com/7312612866/posts/10156841506312867', 'https://www.facebook.com/7312612866/posts/10156855483512867', 'https://www.facebook.com/7312612866/posts/10156787463042867']
+crawl https://www.facebook.com/7312612866/posts/10156834794962867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/468580926973310
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/468580926973310/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38981134_282356449033405_1394995821438566400_n.jpg?_nc_cat=0&oh=24d0fcd79a884e60fe8041d7d5b3714c&oe=5C149E2E
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/10156771982997867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/10106170839210699
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/10106170839210699/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/38088188_10106170839240639_7702929764117381120_n.jpg?_nc_cat=0&oh=ecbd72832733e3ff6d2c72c317999e82&oe=5C1D8F29
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/10156838853787867
+crawl https://www.facebook.com/7312612866/posts/317380589029345
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/317380589029345/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/37819173_1418789824931719_387518771515883520_n.jpg?_nc_cat=0&oh=f57a8daa83888e13c2e182eba29740d7&oe=5C18FF6C
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/10156834759502867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/10156834822792867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/10156695379082867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/303431887090882
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/303431887090882/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/37819173_1418789824931719_387518771515883520_n.jpg?_nc_cat=0&oh=f57a8daa83888e13c2e182eba29740d7&oe=5C18FF6C
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/268118543797080
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/268118543797080/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p75x225/38076140_310994926128113_6348131752782856192_n.jpg?_nc_cat=0&oh=3253238b3b9524e898c5df09de2ef05b&oe=5C2C84EE
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/10156787447192867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/10156855483272867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/10106170838721679
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/10106170838721679/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/37305771_10106170838746629_2367985765738086400_n.jpg?_nc_cat=0&oh=4bcd06ec4c944d744141be85c8b87f59&oe=5C281C8E
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/10156855483157867
+crawl https://www.facebook.com/7312612866/posts/10156855482552867
+crawl https://www.facebook.com/7312612866/posts/303431300424274
+has comments
+downloading videourl:https://www.facebook.com/Indiegogo/videos/303431300424274/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/37819173_1418789824931719_387518771515883520_n.jpg?_nc_cat=0&oh=f57a8daa83888e13c2e182eba29740d7&oe=5C18FF6C
+download start
+ download finished
+
+crawl https://www.facebook.com/7312612866/posts/10156841506312867
+has comments
+no video
+crawl https://www.facebook.com/7312612866/posts/10156855483512867
+crawl https://www.facebook.com/7312612866/posts/10156787463042867
+has comments
+no video
+[{'siteid': 38, 'likes': '1', 'views': 10.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/7312612866/posts/468580926973310', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/1941484ef9b61c21d816773fe5910418.jpg', 'video': 'video/3d4135c6aa72991e0490d118c0c47a08.mp4', 'images': '', 'message': 'VGhlIEV4cGVkaXRpb25lciB3YXMgZGVzaWduZWQgd2l0aCA4IHNlcGFyYXRlIHBvY2tldHMgdG8ga2VlcCB5b3Ugb3JnYW5pemVkIGFuZCBwYWNrIGEgdG9uIG9mIHN0dWZmIGZvciBleHRlbmRlZCB0cmlwcy4gQ2FycnkgYnVsa2llciBpdGVtcyBsaWtlIGFuIGVsZWN0cmljIHJhem9yLCBlbGVjdHJpYyB0b290aGJydXNoZXMsIGFuZCBsYXJnZSBsaXF1aWQgY29udGFpbmVycyB3aGlsZSBzdGlsbCBzdGF5aW5nIGNvbXBhY3Qu', 'posttime': '1536952465', 'title': "World's Best Toiletry Bag"}, {'siteid': 38, 'likes': '8', 'views': 80.0, 'comments': 0, 'shares': 0, 'url': 'https://www.facebook.com/7312612866/posts/10106170839210699', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/ca0596f2e55cdec5b6a0222386bea089.jpg', 'video': 'video/25bcc8857ccb8e32b8bacee17a4287cb.mp4', 'images': '', 'message': 'Qm9keSBCb3NzIHNpbXVsYXRlcyB0aG91c2FuZHMgb2YgZG9sbGFycyB3b3J0aCBvZiBneW0gZXF1aXBtZW50IGluIG9uZSBhZmZvcmRhYmxlIGFuZCBwb3J0YWJsZSBwYWNrYWdlLiBBY3Qgbm93IGFuZCBzYXZlIDU0JSE=', 'posttime': '1534374138', 'title': 'Workout Anywhere and Anytime with Body Boss'}, {'siteid': 38, 'likes': '5', 'views': 34000.0, 'comments': '2', 'shares': '2', 'url': 'https://www.facebook.com/7312612866/posts/317380589029345', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/37ce112d3b899885e461324d23ca71eb.jpg', 'video': 'video/8152af908c551d369f42be58125883a8.mp4', 'images': '', 'message': 'WW91IGNhbiBjbGVhbiBsaXRlcmFsbHkgYW55dGhpbmcgeW91IGNhbiBmaXQgaW4gYSBzaW5rIHdpdGggdGhpcyBkZXZpY2UuIE1pbmQgYmxvd24uIOKclO+4jyAgQ2xlYW4gb24gdGhlIGdvIChjbGVhbiBhbnl0aGluZyB5b3UgY2FuIHB1dCBpbiBhIGJ1Y2tldCBvZiB3YXRlciBvciBhIHNpbmspIOKclO+4jyAgQ2xlYW4ganVzdCBhYm91dCBhbnl0aGluZyAoY2xvdGhlcywgamV3ZWxyeSwgd2F0Y2hlcywgdG95cywgZm9vZCwgYW5kIG1vcmUhKSDinJTvuI8gIEl0J3MgZXZlbiBGb29kIEZyaWVuZGx5IChjbGVhbiBwZXN0aWNpZGVzLCB3YXgsIGFuZCBkaXJ0IG9mZiB5b3VyIGZydWl0cyAmYW1wOyB2ZWdnaWVzKSBJdHMgbm8gd29uZGVyIHRoaXMgVWx0cmFzb25pYyBDbGVhbmVyIGhhcyByYWlzZWQgb3ZlciAkMk0gZnJvbSA4LDAwMCsgQmFja2Vycy4gRmluYWxseSBhIE5ldyBXYXkgdG8gQ2xlYW4u', 'posttime': '1536095237', 'title': '"World\'s smallest washing machine" — Mashable'}, {'siteid': 38, 'likes': '1', 'views': 10.0, 'comments': '1', 'shares': 0, 'url': 'https://www.facebook.com/7312612866/posts/303431887090882', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/51809b478cf970eafa83be238bf35dcc.jpg', 'video': 'video/54aedb21401fd73a34e8a2fecf321f16.mp4', 'images': '', 'message': 'WW91IGNhbiBjbGVhbiBsaXRlcmFsbHkgYW55dGhpbmcgeW91IGNhbiBmaXQgaW4gYSBzaW5rIHdpdGggdGhpcyBkZXZpY2UuIE1pbmQgYmxvd24uIOKclO+4jyAgQ2xlYW4gb24gdGhlIGdvIChjbGVhbiBhbnl0aGluZyB5b3UgY2FuIHB1dCBpbiBhIGJ1Y2tldCBvZiB3YXRlciBvciBhIHNpbmspIOKclO+4jyAgQ2xlYW4ganVzdCBhYm91dCBhbnl0aGluZyAoY2xvdGhlcywgamV3ZWxyeSwgd2F0Y2hlcywgdG95cywgZm9vZCwgYW5kIG1vcmUhKSDinJTvuI8gIEl0J3MgZXZlbiBGb29kIEZyaWVuZGx5IChjbGVhbiBwZXN0aWNpZGVzLCB3YXgsIGFuZCBkaXJ0IG9mZiB5b3VyIGZydWl0cyAmYW1wOyB2ZWdnaWVzKSBJdHMgbm8gd29uZGVyIHRoaXMgVWx0cmFzb25pYyBDbGVhbmVyIGhhcyByYWlzZWQgb3ZlciAkMk0gZnJvbSA4LDAwMCsgQmFja2Vycy4gRmluYWxseSBhIE5ldyBXYXkgdG8gQ2xlYW4u', 'posttime': '1534443452', 'title': 'Over $2,000,000 Raised for this Sonic Cleaning Tool'}, {'siteid': 38, 'likes': '13', 'views': 66000.0, 'comments': 0, 'shares': '1', 'url': 'https://www.facebook.com/7312612866/posts/268118543797080', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/b1b40e89d794bafeffb0533707b4366d.jpg', 'video': 'video/e743159ac65034fb3114947f1a4f7868.mp4', 'images': '', 'message': 'VGhlIG5ldyBTaXRwYWNrIFpFTiBpcyB0aGUgd29ybGTigJlzIG1vc3QgY29tcGFjdCBhbmQgZnVuY3Rpb25hbCBvbmUtbGVnZ2VkIGNoYWlyLiBJdCdzIGRlc2lnbmVkIHRvIGltcHJvdmUgeW91ciBwb3N0dXJlIGFuZCBsZXRzIHlvdSByZWxheCB3aGVyZXZlciB5b3Ugd2FudC4gQWN0IG5vdyBhbmQgc2F2ZSAzMSUh', 'posttime': '1534795947', 'title': "Sitpack Zen X - The World's Most Compact Chair"}, {'siteid': 38, 'likes': '20', 'views': 9100.0, 'comments': '1', 'shares': '2', 'url': 'https://www.facebook.com/7312612866/posts/10106170838721679', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/8c9ef2cdefa76f9259608b263620f95b.jpg', 'video': 'video/776835533b48e79bed8b4dbab107c4da.mp4', 'images': '', 'message': 'Qm9keSBCb3NzIHNpbXVsYXRlcyB0aG91c2FuZHMgb2YgZG9sbGFycyB3b3J0aCBvZiBneW0gZXF1aXBtZW50IGluIG9uZSBhZmZvcmRhYmxlIGFuZCBwb3J0YWJsZSBwYWNrYWdlLiBBY3Qgbm93IGFuZCBzYXZlIDU0JSE=', 'posttime': '1534374138', 'title': 'Workout Anywhere and Anytime with Body Boss'}, {'siteid': 38, 'likes': '6', 'views': 60.0, 'comments': '4', 'shares': 0, 'url': 'https://www.facebook.com/7312612866/posts/303431300424274', 'adsurl': 'https://www.facebook.com/pg/Indiegogo/ads/?country=0', 'name': 'Indiegogo', 'countryid': '0', 'dealurl': 'https://', 'firstimage': 'image/2dfa75b56b43b1273f361af9d9ca3344.jpg', 'video': 'video/8e63d1d09ae1b70111aca6d282f8e545.mp4', 'images': '', 'message': 'WW91IGNhbiBjbGVhbiBsaXRlcmFsbHkgYW55dGhpbmcgeW91IGNhbiBmaXQgaW4gYSBzaW5rIHdpdGggdGhpcyBkZXZpY2UuIE1pbmQgYmxvd24uIOKclO+4jyAgQ2xlYW4gb24gdGhlIGdvIChjbGVhbiBhbnl0aGluZyB5b3UgY2FuIHB1dCBpbiBhIGJ1Y2tldCBvZiB3YXRlciBvciBhIHNpbmspIOKclO+4jyAgQ2xlYW4ganVzdCBhYm91dCBhbnl0aGluZyAoY2xvdGhlcywgamV3ZWxyeSwgd2F0Y2hlcywgdG95cywgZm9vZCwgYW5kIG1vcmUhKSDinJTvuI8gIEl0J3MgZXZlbiBGb29kIEZyaWVuZGx5IChjbGVhbiBwZXN0aWNpZGVzLCB3YXgsIGFuZCBkaXJ0IG9mZiB5b3VyIGZydWl0cyAmYW1wOyB2ZWdnaWVzKSBJdHMgbm8gd29uZGVyIHRoaXMgVWx0cmFzb25pYyBDbGVhbmVyIGhhcyByYWlzZWQgb3ZlciAkMU0gZnJvbSA4LDAwMCsgQmFja2Vycy4gRmluYWxseSBhIE5ldyBXYXkgdG8gQ2xlYW4u', 'posttime': '1534443452', 'title': 'A Washing Machine That Fits In Your Pocket?'}]
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/Kickstarter/ads/?country=8
+crawl0page
+crawl1page
+['https://www.facebook.com/73182029884/posts/10156767385849885']
+crawl https://www.facebook.com/73182029884/posts/10156767385849885
+has comments
+no video
+[]
+Start collecting https://www.facebook.com/pg/zinvowatches/ads/?country=0
+crawl0page
+crawl1page
+['https://www.facebook.com/961046707279566/posts/2467106276640532', 'https://www.facebook.com/961046707279566/posts/1901733359904892']
+crawl https://www.facebook.com/961046707279566/posts/2467106276640532
+crawl https://www.facebook.com/961046707279566/posts/1901733359904892
+[]
+Start collecting https://www.facebook.com/pg/latestmerchofficial/ads/?country=0
+crawl0page
+crawl1page
+['https://www.facebook.com/2133047847021082/posts/1093840177430630', 'https://www.facebook.com/2133047847021082/posts/1102439123237402']
+crawl https://www.facebook.com/2133047847021082/posts/1093840177430630
+has comments
+downloading videourl:https://www.facebook.com/latestmerchofficial/videos/1093840177430630/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38087591_1093840207430627_4127899892888633344_n.jpg?_nc_cat=0&oh=ac66aec19435fcc1251f80b97231d437&oe=5C2CDA0F
+download start
+ download finished
+
+crawl https://www.facebook.com/2133047847021082/posts/1102439123237402
+has comments
+downloading videourl:https://www.facebook.com/latestmerchofficial/videos/1102439123237402/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38960083_1102439189904062_6429322311307886592_n.jpg?_nc_cat=0&oh=2be54cb5b2b334a3c2e4c8448eb51a7d&oe=5C1BB99F
+download start
+ download finished
+
+[{'siteid': 43, 'likes': '774', 'views': 618000.0, 'comments': '187', 'shares': '229', 'url': 'https://www.facebook.com/2133047847021082/posts/1093840177430630', 'adsurl': 'https://www.facebook.com/pg/latestmerchofficial/ads/?country=0', 'name': 'latestmerchofficial', 'countryid': '0', 'dealurl': 'https://bit.ly/2w9cWJZ', 'firstimage': 'image/ee611024ec09cc521d02b8b77e8c1fcc.jpg', 'video': 'video/4c40019dd0ea457e2a1e96937adce985.mp4', 'images': '', 'message': 'VGhlIFBlcm1hbmVudCBNYXRjaCAtIERvbid0IEJ1eSBBIExpZ2h0ZXIgRXZlciBBZ2FpbiEgIE92ZXIgMTUsMDAwIFN0cmlrZXMg8J+UpSA1MCUgT0ZGICsgRnJlZSBTaGlwcGluZyBXb3JsZHdpZGUg8J+RiUNsYWltIEhlcmU6IHt7fX0=', 'posttime': '1534736622', 'title': 'Permanent Match - 50% OFF'}, {'siteid': 43, 'likes': '5', 'views': 50.0, 'comments': '2', 'shares': 0, 'url': 'https://www.facebook.com/2133047847021082/posts/1102439123237402', 'adsurl': 'https://www.facebook.com/pg/latestmerchofficial/ads/?country=0', 'name': 'latestmerchofficial', 'countryid': '0', 'dealurl': 'https://bit.ly/2w9cWJZ', 'firstimage': 'image/e007ba9a52a026736c063212843b6517.jpg', 'video': 'video/8c8f003849193d42aa37be881112e7f7.mp4', 'images': '', 'message': 'VGhlIFBlcm1hbmVudCBNYXRjaCAtIERvbid0IEJ1eSBBIExpZ2h0ZXIgRXZlciBBZ2FpbiEgIE92ZXIgMTUsMDAwIFN0cmlrZXMg8J+UpSA1MCUgT0ZGICsgRnJlZSBTaGlwcGluZyBXb3JsZHdpZGUg8J+RiUNsYWltIEhlcmU6IHt7fX0=', 'posttime': '1535550695', 'title': 'Permanent Match - 50% OFF'}]
+insert update successed!
+insert update successed!
+Continue 1 hour after execution
+start login fb
+logined success
+set language..
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"a[lang='en_US']"}
+  (Session info: headless chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 3.13.0-143-generic x86_64)
+
+language is english
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183', 'https://www.facebook.com/183334359054776/posts/416442092217064', 'https://www.facebook.com/183334359054776/posts/416442092217064']
+crawl https://www.facebook.com/183334359054776/posts/463266064174046
+has comments
+downloading videourl:https://www.facebook.com/IWantOneByHowlers/videos/463266064174046/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38495316_463266924173960_4338984367117303808_n.jpg?_nc_cat=0&oh=56c6a94dbf0f260736db09110a642eff&oe=5C201949
+download start
+ download finished
+
+crawl https://www.facebook.com/183334359054776/posts/262618711036183
+has comments
+downloading videourl:https://www.facebook.com/IWantOneByHowlers/videos/262618711036183/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/37633935_262621834369204_7779391984556310528_n.jpg?_nc_cat=0&oh=03048ceb68edefc4e22aeead26c43659&oe=5C1B5660
+download start
+ download finished
+
+crawl https://www.facebook.com/183334359054776/posts/416442092217064
+has comments
+downloading videourl:https://www.facebook.com/IWantOneByHowlers/videos/416442092217064/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/38088066_416444155550191_5920703887454502912_n.jpg?_nc_cat=0&oh=002213419fa1714c44532ce3233d9d29&oe=5C2C60D7
+download start
+ download finished
+
+https://www.facebook.com/183334359054776/posts/416442092217064 is crawled
+[{'siteid': 17, 'likes': 2700.0, 'views': 4600000.0, 'comments': 1300.0, 'shares': 35000.0, 'url': 'https://www.facebook.com/183334359054776/posts/463266064174046', 'adsurl': 'https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1', 'name': 'IWantOneByHowlers', 'countryid': '1', 'dealurl': 'https://bluecrate.com/products/easy-opener', 'firstimage': 'image/e012e7daba91eb10680b6f33e0105d91.jpg', 'video': 'video/6ef6d4d6cf6327222b3f834b2ab876d7.mp4', 'images': '', 'message': 'VGhpcyBkZXZpY2Ugb3BlbnMgamFycyB3aXRoIGEgY2xpY2sgb2YgYSBidXR0b24gR2V0IHlvdXJzIGhlcmU6IHt7fX0=', 'posttime': '1535568985', 'title': 'Easy opener'}, {'siteid': 17, 'likes': 3300.0, 'views': 14000000.0, 'comments': 12000.0, 'shares': 37000.0, 'url': 'https://www.facebook.com/183334359054776/posts/262618711036183', 'adsurl': 'https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1', 'name': 'IWantOneByHowlers', 'countryid': '1', 'dealurl': 'https://bluecrate.com/products/snore-silencer…', 'firstimage': 'image/2493675aa5dfbf87a3db2b70d2755cf7.jpg', 'video': 'video/695c6e696eea70c895e9838cc029b94d.mp4', 'images': '', 'message': 'VGhpcyBkZXZpY2Ugc3RvcHMgcGVvcGxlIGZyb20gc25vcmluZyDwn5i0IEdldCB5b3VycyBoZXJlOiB7e319', 'posttime': '1535050506', 'title': 'Posture Corrector'}, {'siteid': 17, 'likes': 1600.0, 'views': 831000.0, 'comments': '853', 'shares': 5200.0, 'url': 'https://www.facebook.com/183334359054776/posts/416442092217064', 'adsurl': 'https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=1', 'name': 'IWantOneByHowlers', 'countryid': '1', 'dealurl': 'https://lovimals.com/products/custom-dog-print-socks', 'firstimage': 'image/beb5ca400b6f85d76c70e3954a7d92b5.jpg', 'video': 'video/bf605ae931de716665c7ffce62d75e0c.mp4', 'images': '', 'message': 'WW91IGNhbiBub3cgZ2V0IHlvdXIgcGV0J3MgZmFjZSBwcmludGVkIG9uIHlvdXIgc29jayDwn5C28J+QsSBGZXRjaCBZb3VycyBOb3c6IHt7fX0=', 'posttime': '1535653730', 'title': 'Lovimals'}]
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=2
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183']
+https://www.facebook.com/183334359054776/posts/463266064174046 is crawled
+https://www.facebook.com/183334359054776/posts/262618711036183 is crawled
+[]
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=3
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/416442092217064', 'https://www.facebook.com/183334359054776/posts/416442092217064', 'https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183']
+https://www.facebook.com/183334359054776/posts/416442092217064 is crawled
+https://www.facebook.com/183334359054776/posts/416442092217064 is crawled
+https://www.facebook.com/183334359054776/posts/463266064174046 is crawled
+https://www.facebook.com/183334359054776/posts/262618711036183 is crawled
+[]
+Start collecting https://www.facebook.com/pg/IWantOneByHowlers/ads/?country=4
+crawl0page
+crawl1page
+['https://www.facebook.com/183334359054776/posts/463266064174046', 'https://www.facebook.com/183334359054776/posts/262618711036183']
+https://www.facebook.com/183334359054776/posts/463266064174046 is crawled
+https://www.facebook.com/183334359054776/posts/262618711036183 is crawled
+[]
+Start collecting https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2
+crawl0page
+crawl1page
+['https://www.facebook.com/314944768605525/posts/10156029023244063', 'https://www.facebook.com/314944768605525/posts/1429243827175608', 'https://www.facebook.com/314944768605525/posts/1337084503058208', 'https://www.facebook.com/314944768605525/posts/1155967587836568', 'https://www.facebook.com/314944768605525/posts/1351040714995920', 'https://www.facebook.com/314944768605525/posts/1231261510307175', 'https://www.facebook.com/314944768605525/posts/10100933410480001', 'https://www.facebook.com/314944768605525/posts/1201703003263026', 'https://www.facebook.com/314944768605525/posts/1395323263900998', 'https://www.facebook.com/314944768605525/posts/10100132250561163', 'https://www.facebook.com/314944768605525/posts/1152010741565586', 'https://www.facebook.com/314944768605525/posts/1276137409152918', 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'https://www.facebook.com/314944768605525/posts/1330262023740456', 'https://www.facebook.com/314944768605525/posts/1036966699736658', 'https://www.facebook.com/314944768605525/posts/1447763568656967']
+crawl https://www.facebook.com/314944768605525/posts/10156029023244063
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10156029023244063/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/22118783_10156029023329063_5928086352120774656_n.jpg?_nc_cat=0&oh=d036b3844c37742f29d69e424a9fc977&oe=5C2DBBAF
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1429243827175608
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1337084503058208
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1155967587836568
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1351040714995920
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1231261510307175
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/1231261510307175/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/23496284_1231266796973313_3566621115537162240_n.jpg?_nc_cat=0&oh=911ef54e4482bbd62ffb5d57e74e67ee&oe=5C1A8F49
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/10100933410480001
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10100933410480001/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p960x960/26707955_10100933410669621_2905206129162190848_n.jpg?_nc_cat=0&oh=9b6fe77fd896be9d9b18c2454ef91a4d&oe=5C1C06CA
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1201703003263026
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1395323263900998
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/10100132250561163
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10100132250561163/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/23337338_10100132250586113_2698838168974655488_n.jpg?_nc_cat=0&oh=12aa74be17cc30921dbe73f987d23937&oe=5C1D9235
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1152010741565586
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/1276137409152918
+has comments
+no video
+crawl https://www.facebook.com/314944768605525/posts/10100146554211533
+has comments
+downloading videourl:https://www.facebook.com/OwletBabyMonitors/videos/10100146554211533/
+download start
+ download finished
+
+download firstimgurl:https://scontent-sin6-2.xx.fbcdn.net/v/t15.0-10/p720x720/24582937_10100146554485983_5214693396651704320_n.jpg?_nc_cat=0&oh=0946d0ced23e2d650589ec16cc947c88&oe=5C312BCE
+download start
+ download finished
+
+crawl https://www.facebook.com/314944768605525/posts/1330262023740456
+crawl https://www.facebook.com/314944768605525/posts/1036966699736658
+crawl https://www.facebook.com/314944768605525/posts/1447763568656967
+[{'siteid': 22, 'likes': 1800.0, 'views': 10000.0, 'comments': '258', 'shares': '328', 'url': 'https://www.facebook.com/314944768605525/posts/10156029023244063', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/e219a519ab447a0b0b92eb071e9ea9f9.jpg', 'video': 'video/2b9529b81dfd38b2d6ac6f7ad08b1a36.mp4', 'images': '', 'message': 'WW91IGNhbiBnZXQgdGhlIHJlc3QgeW91IGRlc2VydmUgd2l0aCBwZWFjZSBvZiBtaW5kIHdoaWxlIHdlIGhlbHAgd2F0Y2ggb3ZlciB5b3VyIGJhYnnigJlzIGhlYXJ0IHJhdGUgYW5kIG94eWdlbiBsZXZlbHMgdGhyb3VnaCB0aGUgbmlnaHQu', 'posttime': '1506631112', 'title': 'Peace of Mind'}, {'siteid': 22, 'likes': 28000.0, 'views': 2300000.0, 'comments': 3600.0, 'shares': 17000.0, 'url': 'https://www.facebook.com/314944768605525/posts/1231261510307175', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://www.owletcare.com', 'firstimage': 'image/2d95520f40e1381efa0c6aaa22ba3dc7.jpg', 'video': 'video/3579867ce9db1f6934b4a2eb489c1871.mp4', 'images': '', 'message': 'V2hvIGRvIHlvdSBrbm93IHRoYXQgbmVlZHMgYW4gT3dsZXQgU21hcnQgU29jaz8gVm90ZWQgQmVzdCBCYWJ5IE1vbml0b3Igb2YgMjAxNy4ge3t9fQ==', 'posttime': '1510768800', 'title': 'Easy Ways to Buy An Owlet'}, {'siteid': 22, 'likes': '601', 'views': 346000.0, 'comments': '133', 'shares': '107', 'url': 'https://www.facebook.com/314944768605525/posts/10100933410480001', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/1116abf3ceeae475a5935318fde5f0c2.jpg', 'video': 'video/f5132d4de488550fafaf513be7778863.mp4', 'images': '', 'message': 'VGlyZWQgZnJvbSBjaGVja2luZyBvbiB5b3VyIGJhYnkgYWxsIG5pZ2h0PyBUaGVyZSdzIGEgYmV0dGVyIHdheS4=', 'posttime': '1516901005', 'title': 'Know Your Baby is Okay'}, {'siteid': 22, 'likes': 12000.0, 'views': 1900000.0, 'comments': 1500.0, 'shares': 2900.0, 'url': 'https://www.facebook.com/314944768605525/posts/10100132250561163', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/2860fa39289930dd221301bd8b87945a.jpg', 'video': 'video/017cafc926e1b367076d5ee4dc7a125e.mp4', 'images': '', 'message': 'U3RpbGwgaG92ZXJpbmcgb3ZlciB5b3VyIGJhYnnigJlzIGNyaWIgd2hpbGUgdGhleSBzbGVlcD8gT3dsZXQgdHJhY2tzIHlvdXIgYmFieeKAmXMgaGVhcnQgcmF0ZSBhbmQgb3h5Z2VuIGxldmVscywgc28geW91IGNhbiBnbyBhYm91dCB5b3VyIGRheS4=', 'posttime': '1510011434', 'title': 'Owlet Smart Sock'}, {'siteid': 22, 'likes': '65', 'views': 43000.0, 'comments': '7', 'shares': '2', 'url': 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/7ee7f02e32cfa45464e28d26ac4f501c.jpg', 'video': 'video/c680215646d6d2c821cc2ed134839db5.mp4', 'images': '', 'message': 'V2UgbG92ZSBvdXIgTklDVSBiYWJpZXMu', 'posttime': '1515164835', 'title': 'An Owlet Story'}, {'siteid': 22, 'likes': '65', 'views': 43000.0, 'comments': '7', 'shares': '2', 'url': 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/7ee7f02e32cfa45464e28d26ac4f501c.jpg', 'video': 'video/c680215646d6d2c821cc2ed134839db5.mp4', 'images': '', 'message': 'V2UgbG92ZSBvdXIgTklDVSBiYWJpZXMu', 'posttime': '1515164835', 'title': 'An Owlet Story'}, {'siteid': 22, 'likes': '65', 'views': 43000.0, 'comments': '7', 'shares': '2', 'url': 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/7ee7f02e32cfa45464e28d26ac4f501c.jpg', 'video': 'video/c680215646d6d2c821cc2ed134839db5.mp4', 'images': '', 'message': 'V2UgbG92ZSBvdXIgTklDVSBiYWJpZXMu', 'posttime': '1515164835', 'title': 'An Owlet Story'}, {'siteid': 22, 'likes': '65', 'views': 43000.0, 'comments': '7', 'shares': '2', 'url': 'https://www.facebook.com/314944768605525/posts/10100146554211533', 'adsurl': 'https://www.facebook.com/pg/OwletBabyMonitors/ads/?country=2', 'name': 'OwletBabyMonitors', 'countryid': '2', 'dealurl': 'https://', 'firstimage': 'image/7ee7f02e32cfa45464e28d26ac4f501c.jpg', 'video': 'video/c680215646d6d2c821cc2ed134839db5.mp4', 'images': '', 'message': 'V2UgbG92ZSBvdXIgTklDVSBiYWJpZXMu', 'posttime': '1515164835', 'title': 'An Owlet Story'}]
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+insert update successed!
+Start collecting https://www.facebook.com/pg/simistorenow/ads/?country=2
+Start collecting https://www.facebook.com/pg/micella.net/ads/?country=1
+Start collecting https://www.facebook.com/pg/-IscanPro-289753158496233/ads/?country=1
+Start collecting https://www.facebook.com/pg/itFit/ads/?country=1
+Start collecting https://www.facebook.com/pg/Produtos-úteis-1369046106555503/ads/?country=0
+Start collecting https://www.facebook.com/pg/Tasty-food-715135555314413/ads/?country=1
+Start collecting https://www.facebook.com/pg/Funtastic-Gift-2072254702994666/ads/?country=1
+Start collecting https://www.facebook.com/pg/nurasound/ads/?country=1
+Start collecting https://www.facebook.com/pg/dealsweel/ads/?country=1
+Start collecting https://www.facebook.com/pg/paradigmgoods/ads/?country=0
+Start collecting https://www.facebook.com/pg/NewLook-418394532016011/ads/?country=1
+Start collecting https://www.facebook.com/pg/semiperdo/ads/?country=12
+Start collecting https://www.facebook.com/pg/RECTECGrills/ads/?country=1
+Start collecting https://www.facebook.com/pg/Indiegogo/ads/?country=0
+Start collecting https://www.facebook.com/pg/Kickstarter/ads/?country=8
+Start collecting https://www.facebook.com/pg/zinvowatches/ads/?country=0
+Start collecting https://www.facebook.com/pg/latestmerchofficial/ads/?country=0
+Start collecting https://www.facebook.com/pg/qardio/ads/?country=2
+Start collecting https://www.facebook.com/pg/qardio/ads/?country=3
+Start collecting https://www.facebook.com/pg/OsterBrasil/ads/?country=49
+Continue 1 hour after execution
+Traceback (most recent call last):
+  File "spydos.py", line 504, in <module>
+    browser.close()
+  File "/home/ubuntu/.virtualenvs/py3/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 687, in close
+    self.execute(Command.CLOSE)
+  File "/home/ubuntu/.virtualenvs/py3/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 320, in execute
+    self.error_handler.check_response(response)
+  File "/home/ubuntu/.virtualenvs/py3/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: headless chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 3.13.0-143-generic x86_64)
+
